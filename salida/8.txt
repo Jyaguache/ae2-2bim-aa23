@@ -1,0 +1,1449 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Inicio | AMC ECUADOR | Insumos Industriales y Agrícolas</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v13.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Equipos para Industria y Agroindustria, equipos de Protección Personal EPPS, Empaque, Embalaje, Infraestructura, Construcción, Remediación Ambiental."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://amcecuador.com/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Inicio | AMC ECUADOR | Insumos Industriales y Agrícolas" />
+<meta property="og:description" content="Equipos para Industria y Agroindustria, equipos de Protección Personal EPPS, Empaque, Embalaje, Infraestructura, Construcción, Remediación Ambiental." />
+<meta property="og:url" content="https://amcecuador.com/" />
+<meta property="og:site_name" content="AMC ECUADOR" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Equipos para Industria y Agroindustria, equipos de Protección Personal EPPS, Empaque, Embalaje, Infraestructura, Construcción, Remediación Ambiental." />
+<meta name="twitter:title" content="Inicio | AMC ECUADOR | Insumos Industriales y Agrícolas" />
+<meta name="twitter:site" content="@EcuadorAmc" />
+<meta name="twitter:image" content="https://amcecuador.com/wp-content/uploads/2021/07/IMG_1246-scaled.jpg" />
+<meta name="twitter:creator" content="@EcuadorAmc" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://amcecuador.com/#organization","name":"AMC Ecuador Cia. Ltda.","url":"https://amcecuador.com/","sameAs":["https://www.facebook.com/AMCECUADOR","https://www.instagram.com/amcecuador/","https://twitter.com/EcuadorAmc"],"logo":{"@type":"ImageObject","@id":"https://amcecuador.com/#logo","inLanguage":"es","url":"https://amcecuador.com/wp-content/uploads/2021/02/Logo-Oficial-AMC.png","width":862,"height":863,"caption":"AMC Ecuador Cia. Ltda."},"image":{"@id":"https://amcecuador.com/#logo"}},{"@type":"WebSite","@id":"https://amcecuador.com/#website","url":"https://amcecuador.com/","name":"AMC ECUADOR","inLanguage":"es","description":"Insumos Industriales Especializados","publisher":{"@id":"https://amcecuador.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://amcecuador.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://amcecuador.com/#primaryimage","inLanguage":"es","url":"https://amcecuador.com/wp-content/uploads/2021/07/IMG_1246-scaled.jpg","width":2560,"height":1707},{"@type":"WebPage","@id":"https://amcecuador.com/#webpage","url":"https://amcecuador.com/","name":"Inicio | AMC ECUADOR | Insumos Industriales y Agr\u00edcolas","isPartOf":{"@id":"https://amcecuador.com/#website"},"inLanguage":"es","about":{"@id":"https://amcecuador.com/#organization"},"primaryImageOfPage":{"@id":"https://amcecuador.com/#primaryimage"},"datePublished":"2020-12-17T17:03:01+00:00","dateModified":"2023-06-20T15:36:32+00:00","description":"Equipos para Industria y Agroindustria, equipos de Protecci\u00f3n Personal EPPS, Empaque, Embalaje, Infraestructura, Construcci\u00f3n, Remediaci\u00f3n Ambiental.","potentialAction":[{"@type":"ReadAction","target":["https://amcecuador.com/"]}]}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<script type='application/javascript'>console.log('PixelYourSite Free version 9.3.9');</script>
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="AMC ECUADOR &raquo; Feed" href="https://amcecuador.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AMC ECUADOR &raquo; Feed de los comentarios" href="https://amcecuador.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/amcecuador.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='font-awesome-css' href='https://amcecuador.com/wp-content/plugins/woocommerce-ajax-filters/berocket/assets/css/font-awesome.min.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='berocket_aapf_widget-style-css' href='https://amcecuador.com/wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/fullmain.min.css?ver=1.6.4.3' media='all' />
+<link rel='stylesheet' id='astra-theme-css-css' href='https://amcecuador.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=3.0.2' media='all' />
+<style id='astra-theme-css-inline-css'>
+html{font-size:93.75%;}a,.page-title{color:#ac1630;}a:hover,a:focus{color:#1b6e6c;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-weight:inherit;font-size:15px;font-size:1rem;}blockquote{color:#000000;}.site-title{font-size:35px;font-size:2.3333333333333rem;}header .site-logo-img .custom-logo-link img{max-width:180px;}.astra-logo-svg{width:180px;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.6666666666667rem;}.site-header .site-description{font-size:15px;font-size:1rem;}.entry-title{font-size:40px;font-size:2.6666666666667rem;}.comment-reply-title{font-size:24px;font-size:1.6rem;}.ast-comment-list #cancel-comment-reply-link{font-size:15px;font-size:1rem;}h1,.entry-content h1{font-size:40px;font-size:2.6666666666667rem;}h2,.entry-content h2{font-size:30px;font-size:2rem;}h3,.entry-content h3{font-size:25px;font-size:1.6666666666667rem;}h4,.entry-content h4{font-size:20px;font-size:1.3333333333333rem;}h5,.entry-content h5{font-size:18px;font-size:1.2rem;}h6,.entry-content h6{font-size:15px;font-size:1rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:2rem;}::selection{background-color:#dd3333;color:#ffffff;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.wc-block-grid__product-title{color:#3a3a3a;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#ac1630;background-color:#ac1630;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#ac1630;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#ac1630;background-color:#ac1630;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#ac1630;border-color:#ac1630;}.ast-comment-meta{line-height:1.666666667;font-size:12px;font-size:0.8rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#ac1630;}.entry-meta,.entry-meta *{line-height:1.45;color:#ac1630;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#1b6e6c;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:13.333333333333rem;}.widget-title{font-size:21px;font-size:1.4rem;color:#3a3a3a;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#ac1630;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#ac1630;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#ac1630;border-color:#ac1630;}.calendar_wrap #today > a{color:#ffffff;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#ac1630;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#1b6e6c;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#df1e32;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #df1e32;color:#df1e32;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#df1e32;color:#ffffff;}.main-header-menu .menu-link,.ast-header-custom-item a{color:#3a3a3a;}.main-header-menu .menu-item:hover > .menu-link,.main-header-menu .menu-item:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu .menu-item.focus > .menu-link,.main-header-menu .menu-item.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > .menu-link,.main-header-menu .current-menu-ancestor > .menu-link,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle{color:#ac1630;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.wp-block-buttons.aligncenter{justify-content:center;}@media (min-width:1200px){.ast-separate-container.ast-right-sidebar .entry-content .wp-block-image.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-image.alignfull,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignfull{margin-left:-6.67em;margin-right:-6.67em;max-width:unset;width:unset;}.ast-separate-container.ast-right-sidebar .entry-content .wp-block-image.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-image.alignwide,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignwide{margin-left:-20px;margin-right:-20px;max-width:unset;width:unset;}.wp-block-group .has-background{padding:20px;}}@media (min-width:1200px){.ast-separate-container.ast-right-sidebar .entry-content .wp-block-group.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-group.alignwide,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignwide,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignwide,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignwide{margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px;}.ast-separate-container.ast-right-sidebar .entry-content .wp-block-group.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-group.alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignfull,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignfull{margin-left:-6.67em;margin-right:-6.67em;padding-left:6.67em;padding-right:6.67em;}.ast-plain-container.ast-right-sidebar .entry-content .wp-block-group.alignwide,.ast-plain-container.ast-left-sidebar .entry-content .wp-block-group.alignwide,.ast-plain-container.ast-right-sidebar .entry-content .wp-block-group.alignfull,.ast-plain-container.ast-left-sidebar .entry-content .wp-block-group.alignfull{padding-left:20px;padding-right:20px;}.ast-plain-container.ast-no-sidebar .entry-content .alignwide .wp-block-group__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .wp-block-group__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .wp-block-cover__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .wp-block-cover__inner-container{max-width:1240px;margin-left:auto;margin-right:auto;padding-left:20px;padding-right:20px;}.ast-plain-container.ast-no-sidebar .entry-content .alignwide .wp-block-cover__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .wp-block-cover__inner-container{width:1240px;}.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-group.alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-group.alignfull{margin-left:0;margin-right:0;}.wp-block-cover-image.alignwide .wp-block-cover__inner-container,.wp-block-cover.alignwide .wp-block-cover__inner-container,.wp-block-cover-image.alignfull .wp-block-cover__inner-container,.wp-block-cover.alignfull .wp-block-cover__inner-container{width:100%;}.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-left-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-cover.alignfull,.ast-page-builder-template.ast-left-sidebar .entry-content .wp-block-cover.alignfull,.ast-page-builder-template.ast-right-sidebar .entry-content .wp-block-cover.alignful{padding-right:0;padding-left:0;}}.ast-plain-container.ast-no-sidebar #primary{margin-top:0;margin-bottom:0;}@media (max-width:921px){.ast-theme-transparent-header #primary,.ast-theme-transparent-header #secondary{padding:0;}}.wp-block-columns{margin-bottom:unset;}.wp-block-image.size-full{margin:2rem 0;}.wp-block-separator.has-background{padding:0;}.wp-block-gallery{margin-bottom:1.6em;}.wp-block-group{padding-top:4em;padding-bottom:4em;}.wp-block-group__inner-container .wp-block-columns:last-child,.wp-block-group__inner-container :last-child,.wp-block-table table{margin-bottom:0;}.blocks-gallery-grid{width:100%;}.wp-block-navigation-link__content{padding:5px 0;}.wp-block-group .wp-block-group .has-text-align-center,.wp-block-group .wp-block-column .has-text-align-center{max-width:100%;}.has-text-align-center{margin:0 auto;}@media (min-width:1200px){.wp-block-cover__inner-container,.alignwide .wp-block-group__inner-container,.alignfull .wp-block-group__inner-container{max-width:1200px;margin:0 auto;}.wp-block-group.alignnone,.wp-block-group.aligncenter,.wp-block-group.alignleft,.wp-block-group.alignright,.wp-block-group.alignwide,.wp-block-columns.alignwide{margin:2rem 0 1rem 0;}}@media (max-width:1200px){.wp-block-group{padding:3em;}.wp-block-group .wp-block-group{padding:1.5em;}.wp-block-columns,.wp-block-column{margin:1rem 0;}}@media (min-width:921px){.wp-block-columns .wp-block-group{padding:2em;}}@media (max-width:544px){.wp-block-cover-image .wp-block-cover__inner-container,.wp-block-cover .wp-block-cover__inner-container{width:unset;}.wp-block-cover,.wp-block-cover-image{padding:2em 0;}.wp-block-group,.wp-block-cover{padding:2em;}.wp-block-media-text__media img,.wp-block-media-text__media video{width:unset;max-width:100%;}.wp-block-media-text.has-background .wp-block-media-text__content{padding:1em;}}@media (max-width:921px){.ast-plain-container.ast-no-sidebar #primary{padding:0;}}@media (min-width:544px){.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content{padding:0 8% 0 0;}.entry-content .wp-block-media-text .wp-block-media-text__content{padding:0 0 0 8%;}.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-bottom-left > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-bottom-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-top-left > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-top-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-center-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-center-left > *{margin:0;}}@media (max-width:544px){.entry-content .wp-block-media-text .wp-block-media-text__content{padding:8% 0;}.wp-block-media-text .wp-block-media-text__media img{width:auto;max-width:100%;}}@media (max-width:921px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-author-box img.avatar{margin:20px 0 0 0;}}@media (max-width:921px){.ast-right-sidebar #primary{padding-right:0;}.ast-pagination .prev.page-numbers{padding-left:.5em;}.ast-pagination .next.page-numbers{padding-right:.5em;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.ast-separate-container .ast-comment-list li .comment-respond{padding-left:2.66666em;padding-right:2.66666em;}.ast-author-box{-js-display:flex;display:flex;}.ast-author-bio{flex:1;}.error404.ast-separate-container #primary,.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}@media (min-width:922px){.ast-right-sidebar #primary{border-right:1px solid #eee;}.ast-left-sidebar #primary{border-left:1px solid #eee;}}.elementor-button-wrapper .elementor-button{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-radius:3px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.elementor-button-wrapper .elementor-button{border-color:#df1e32;background-color:#df1e32;}.elementor-button-wrapper .elementor-button:hover,.elementor-button-wrapper .elementor-button:focus{color:#ffffff;background-color:#636365;border-color:#636365;}.wp-block-button .wp-block-button__link,.elementor-button-wrapper .elementor-button,.elementor-button-wrapper .elementor-button:visited{color:#ffffff;}.elementor-button-wrapper .elementor-button{font-family:Helvetica,Verdana,Arial,sans-serif;font-weight:300;line-height:1;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{font-size:12px;font-size:0.8rem;}.wp-block-button .wp-block-button__link{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;border-color:#df1e32;background-color:#df1e32;color:#ffffff;font-family:Helvetica,Verdana,Arial,sans-serif;font-weight:300;line-height:1;font-size:12px;font-size:0.8rem;border-radius:3px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#ffffff;background-color:#636365;border-color:#636365;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:#ffffff;border-color:#df1e32;background-color:#df1e32;border-radius:3px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;font-family:Helvetica,Verdana,Arial,sans-serif;font-weight:300;font-size:12px;font-size:0.8rem;line-height:1;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.ast-custom-button:hover .button:hover,.ast-custom-button:hover ,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;background-color:#636365;border-color:#636365;}@media (min-width:921px){.ast-container{max-width:100%;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container .comments-count-wrapper{padding:1.5em 1em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}.ast-separate-container .comment-respond{padding:1.5em 1em;}}@media (max-width:544px){.ast-comment-list .children{margin-left:0.66666em;}.ast-separate-container .ast-comment-list .bypostauthor li{padding:0 0 0 .5em;}}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.comments-area{margin-top:1.5em;}.ast-separate-container .comments-count-wrapper{padding:2em 2.14em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}}@media (max-width:921px){.ast-header-break-point .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:0;}.ast-header-break-point .ast-mobile-header-stack .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:-1em;}.ast-comment-avatar-wrap{margin-right:0.5em;}}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}@media (max-width:921px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:921px){html{font-size:85.5%;}}@media (max-width:544px){html{font-size:85.5%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url(https://amcecuador.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(https://amcecuador.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(https://amcecuador.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#dd3333;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu{border-top-width:2px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu{top:-2px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .menu-link,.ast-desktop .main-header-menu.submenu-with-border .children .menu-link{border-bottom-width:0px;border-style:solid;border-color:#eaeaea;}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:#7a7a7a;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:6.6666666666667rem;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}.elementor-widget-heading .elementor-heading-title{margin:0;}.elementor-post.elementor-grid-item.hentry{margin-bottom:0;}.woocommerce div.product .elementor-element.elementor-products-grid .related.products ul.products li.product,.elementor-element .elementor-wc-products .woocommerce[class*='columns-'] ul.products li.product{width:auto;margin:0;float:none;}.ast-left-sidebar .elementor-section.elementor-section-stretched,.ast-right-sidebar .elementor-section.elementor-section-stretched{max-width:100%;left:0 !important;}.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}.ast-safari-browser-less-than-11 .main-header-menu .menu-item,.ast-safari-browser-less-than-11 .main-header-bar .ast-masthead-custom-menu-items{display:block;}.main-header-menu .menu-item,.main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items{flex:unset;}.ast-desktop .astra-menu-animation-slide-up>.menu-item>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.menu-item>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item>.sub-menu .sub-menu{opacity:0;visibility:hidden;transform:translateY(.5em);transition:visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-up>.menu-item .menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item .menu-item:hover>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item:hover>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.menu-item:hover>.sub-menu{opacity:1;visibility:visible;transform:translateY(0);transition:opacity .2s ease,visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-up>.full-width-mega.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.full-width-mega.menu-item:hover>.astra-full-megamenu-wrapper{-js-display:flex;display:flex}.ast-desktop .astra-menu-animation-slide-down>.menu-item>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.menu-item>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item>.sub-menu .sub-menu{opacity:0;visibility:hidden;transform:translateY(-.5em);transition:visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-down>.menu-item .menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item .menu-item:hover>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item:hover>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.menu-item:hover>.sub-menu{opacity:1;visibility:visible;transform:translateY(0);transition:opacity .2s ease,visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-down>.full-width-mega.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.full-width-mega.menu-item:hover>.astra-full-megamenu-wrapper{-js-display:flex;display:flex}.ast-desktop .astra-menu-animation-fade>.menu-item>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.menu-item>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item>.sub-menu .sub-menu{opacity:0;visibility:hidden;transition:opacity ease-in-out .3s}.ast-desktop .astra-menu-animation-fade>.menu-item .menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item .menu-item:hover>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item:hover>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.menu-item:hover>.sub-menu{opacity:1;visibility:visible;transition:opacity ease-in-out .3s}.ast-desktop .astra-menu-animation-fade>.full-width-mega.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.full-width-mega.menu-item:hover>.astra-full-megamenu-wrapper{-js-display:flex;display:flex}
+</style>
+<link rel='stylesheet' id='dce-dynamic-visibility-style-css' href='https://amcecuador.com/wp-content/plugins/dynamic-visibility-for-elementor//assets/css/dynamic-visibility.css?ver=5.0.6' media='all' />
+<link rel='stylesheet' id='cuar.frontend-css' href='https://amcecuador.com/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.6' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://amcecuador.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='edsanimate-block-style-css' href='https://amcecuador.com/wp-content/plugins/animate-it/assets/css/block-style.css?ver=1677686237' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://amcecuador.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=10.2.4' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://amcecuador.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=10.2.4' media='all' />
+<link rel='stylesheet' id='wp-components-css' href='https://amcecuador.com/wp-includes/css/dist/components/style.min.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css' href='https://amcecuador.com/wp-includes/css/dist/block-editor/style.min.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='wp-nux-css' href='https://amcecuador.com/wp-includes/css/dist/nux/style.min.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='wp-reusable-blocks-css' href='https://amcecuador.com/wp-includes/css/dist/reusable-blocks/style.min.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='wp-editor-css' href='https://amcecuador.com/wp-includes/css/dist/editor/style.min.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='nta_whatsapp-style-css-css' href='https://amcecuador.com/wp-content/plugins/whatsapp-for-wordpress/dist/blocks.style.build.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://amcecuador.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='edsanimate-animo-css-css' href='https://amcecuador.com/wp-content/plugins/animate-it/assets/css/animate-animo.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='nta-css-popup-css' href='https://amcecuador.com/wp-content/plugins/whatsapp-for-wordpress/assets/css/style.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='woo-title-limit-css' href='https://amcecuador.com/wp-content/plugins/woo-title-limit/public/css/woo-title-limit-public.css?ver=2.0.3' media='all' />
+<link rel='stylesheet' id='follow-up-emails-css' href='https://amcecuador.com/wp-content/plugins/woocommerce-follow-up-emails/templates/followups.css?ver=4.9.8' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://amcecuador.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout.min.css?ver=3.0.2' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://amcecuador.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen.min.css?ver=3.0.2' media='only screen and (max-width: 921px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://amcecuador.com/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce.min.css?ver=3.0.2' media='all' />
+<style id='woocommerce-general-inline-css'>
+.woocommerce span.onsale, .wc-block-grid__product .wc-block-grid__product-onsale{background-color:#dd3333;color:#ffffff;}.woocommerce a.button, .woocommerce button.button, .woocommerce .woocommerce-message a.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce input.button,.woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled], .woocommerce input.button:disabled:hover, .woocommerce input.button:disabled[disabled]:hover, .woocommerce #respond input#submit, .woocommerce button.button.alt.disabled, .wc-block-grid__products .wc-block-grid__product .wp-block-button__link, .wc-block-grid__product-onsale{color:#ffffff;border-color:#df1e32;background-color:#df1e32;}.woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce .woocommerce-message a.button:hover,.woocommerce #respond input#submit:hover,.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce input.button:hover, .woocommerce button.button.alt.disabled:hover, .wc-block-grid__products .wc-block-grid__product .wp-block-button__link:hover{color:#ffffff;border-color:#636365;background-color:#636365;}.woocommerce-message, .woocommerce-info{border-top-color:#ac1630;}.woocommerce-message::before,.woocommerce-info::before{color:#ac1630;}.woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price, .widget_layered_nav_filters ul li.chosen a, .woocommerce-page ul.products li.product .ast-woo-product-category, .wc-layered-nav-rating a{color:#3a3a3a;}.woocommerce nav.woocommerce-pagination ul,.woocommerce nav.woocommerce-pagination ul li{border-color:#ac1630;}.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current{background:#ac1630;color:#ffffff;}.woocommerce-MyAccount-navigation-link.is-active a{color:#1b6e6c;}.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle{background-color:#ac1630;}.woocommerce a.button, .woocommerce button.button, .woocommerce .woocommerce-message a.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce input.button,.woocommerce-cart table.cart td.actions .button, .woocommerce form.checkout_coupon .button, .woocommerce #respond input#submit, .wc-block-grid__products .wc-block-grid__product .wp-block-button__link{border-radius:3px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.woocommerce .star-rating, .woocommerce .comment-form-rating .stars a, .woocommerce .star-rating::before{color:#ac1630;}.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before{background:#ac1630;}.ast-site-header-cart a{color:#3a3a3a;}.ast-site-header-cart a:focus, .ast-site-header-cart a:hover, .ast-site-header-cart .current-menu-item a{color:#ac1630;}.ast-cart-menu-wrap .count, .ast-cart-menu-wrap .count:after{border-color:#ac1630;color:#ac1630;}.ast-cart-menu-wrap:hover .count{color:#ffffff;background-color:#ac1630;}.ast-site-header-cart .widget_shopping_cart .total .woocommerce-Price-amount{color:#ac1630;}.woocommerce a.remove:hover, .ast-woocommerce-cart-menu .main-header-menu .woocommerce-custom-menu-item .menu-item:hover > .menu-link.remove:hover{color:#ac1630;border-color:#ac1630;background-color:#ffffff;}.ast-site-header-cart .widget_shopping_cart .buttons .button.checkout, .woocommerce .widget_shopping_cart .woocommerce-mini-cart__buttons .checkout.wc-forward{color:#ffffff;border-color:#636365;background-color:#636365;}.site-header .ast-site-header-cart-data .button.wc-forward, .site-header .ast-site-header-cart-data .button.wc-forward:hover{color:#ffffff;}.below-header-user-select .ast-site-header-cart .widget, .ast-above-header-section .ast-site-header-cart .widget a, .below-header-user-select .ast-site-header-cart .widget_shopping_cart a{color:#3a3a3a;}.below-header-user-select .ast-site-header-cart .widget_shopping_cart a:hover, .ast-above-header-section .ast-site-header-cart .widget_shopping_cart a:hover, .below-header-user-select .ast-site-header-cart .widget_shopping_cart a.remove:hover, .ast-above-header-section .ast-site-header-cart .widget_shopping_cart a.remove:hover{color:#ac1630;}@media (min-width:545px) and (max-width:921px){.woocommerce.tablet-columns-6 ul.products li.product, .woocommerce-page.tablet-columns-6 ul.products li.product{width:calc(16.66% - 16.66px);}.woocommerce.tablet-columns-5 ul.products li.product, .woocommerce-page.tablet-columns-5 ul.products li.product{width:calc(20% - 16px);}.woocommerce.tablet-columns-4 ul.products li.product, .woocommerce-page.tablet-columns-4 ul.products li.product{width:calc(25% - 15px);}.woocommerce.tablet-columns-3 ul.products li.product, .woocommerce-page.tablet-columns-3 ul.products li.product{width:calc(33.33% - 14px);}.woocommerce.tablet-columns-2 ul.products li.product, .woocommerce-page.tablet-columns-2 ul.products li.product{width:calc(50% - 10px);}.woocommerce.tablet-columns-1 ul.products li.product, .woocommerce-page.tablet-columns-1 ul.products li.product{width:100%;}.woocommerce div.product .related.products ul.products li.product{width:calc(33.33% - 14px);}}@media (min-width:545px) and (max-width:921px){.woocommerce[class*="columns-"].columns-3 > ul.products li.product, .woocommerce[class*="columns-"].columns-4 > ul.products li.product, .woocommerce[class*="columns-"].columns-5 > ul.products li.product, .woocommerce[class*="columns-"].columns-6 > ul.products li.product{width:calc(33.33% - 14px);margin-right:20px;}.woocommerce[class*="columns-"].columns-3 > ul.products li.product:nth-child(3n), .woocommerce[class*="columns-"].columns-4 > ul.products li.product:nth-child(3n), .woocommerce[class*="columns-"].columns-5 > ul.products li.product:nth-child(3n), .woocommerce[class*="columns-"].columns-6 > ul.products li.product:nth-child(3n){margin-right:0;clear:right;}.woocommerce[class*="columns-"].columns-3 > ul.products li.product:nth-child(3n+1), .woocommerce[class*="columns-"].columns-4 > ul.products li.product:nth-child(3n+1), .woocommerce[class*="columns-"].columns-5 > ul.products li.product:nth-child(3n+1), .woocommerce[class*="columns-"].columns-6 > ul.products li.product:nth-child(3n+1){clear:left;}.woocommerce[class*="columns-"] ul.products li.product:nth-child(n), .woocommerce-page[class*="columns-"] ul.products li.product:nth-child(n){margin-right:20px;clear:none;}.woocommerce.tablet-columns-2 ul.products li.product:nth-child(2n), .woocommerce-page.tablet-columns-2 ul.products li.product:nth-child(2n), .woocommerce.tablet-columns-3 ul.products li.product:nth-child(3n), .woocommerce-page.tablet-columns-3 ul.products li.product:nth-child(3n), .woocommerce.tablet-columns-4 ul.products li.product:nth-child(4n), .woocommerce-page.tablet-columns-4 ul.products li.product:nth-child(4n), .woocommerce.tablet-columns-5 ul.products li.product:nth-child(5n), .woocommerce-page.tablet-columns-5 ul.products li.product:nth-child(5n), .woocommerce.tablet-columns-6 ul.products li.product:nth-child(6n), .woocommerce-page.tablet-columns-6 ul.products li.product:nth-child(6n){margin-right:0;clear:right;}.woocommerce.tablet-columns-2 ul.products li.product:nth-child(2n+1), .woocommerce-page.tablet-columns-2 ul.products li.product:nth-child(2n+1), .woocommerce.tablet-columns-3 ul.products li.product:nth-child(3n+1), .woocommerce-page.tablet-columns-3 ul.products li.product:nth-child(3n+1), .woocommerce.tablet-columns-4 ul.products li.product:nth-child(4n+1), .woocommerce-page.tablet-columns-4 ul.products li.product:nth-child(4n+1), .woocommerce.tablet-columns-5 ul.products li.product:nth-child(5n+1), .woocommerce-page.tablet-columns-5 ul.products li.product:nth-child(5n+1), .woocommerce.tablet-columns-6 ul.products li.product:nth-child(6n+1), .woocommerce-page.tablet-columns-6 ul.products li.product:nth-child(6n+1){clear:left;}.woocommerce div.product .related.products ul.products li.product:nth-child(3n){margin-right:0;clear:right;}.woocommerce div.product .related.products ul.products li.product:nth-child(3n+1){clear:left;}}@media (min-width:922px){.woocommerce #reviews #comments{width:55%;float:left;}.woocommerce #reviews #review_form_wrapper{width:45%;float:right;padding-left:2em;}.woocommerce form.checkout_coupon{width:50%;}}@media (max-width:921px){.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-1.ast-mobile-header-stack.ast-no-menu-items .ast-site-header-cart, .ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-3.ast-mobile-header-stack.ast-no-menu-items .ast-site-header-cart{padding-right:0;padding-left:0;}.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-1.ast-mobile-header-stack .main-header-bar{text-align:center;}.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-1.ast-mobile-header-stack .ast-site-header-cart, .ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-1.ast-mobile-header-stack .ast-mobile-menu-buttons{display:inline-block;}.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-2.ast-mobile-header-inline .site-branding{flex:auto;}.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-3.ast-mobile-header-stack .site-branding{flex:0 0 100%;}.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-3.ast-mobile-header-stack .main-header-container{display:flex;justify-content:center;}.woocommerce-cart .woocommerce-shipping-calculator .button{width:100%;}.woocommerce div.product div.images, .woocommerce div.product div.summary, .woocommerce #content div.product div.images, .woocommerce #content div.product div.summary, .woocommerce-page div.product div.images, .woocommerce-page div.product div.summary, .woocommerce-page #content div.product div.images, .woocommerce-page #content div.product div.summary{float:none;width:100%;}.woocommerce-cart table.cart td.actions .ast-return-to-shop{display:block;text-align:center;margin-top:1em;}}@media (max-width:544px){.ast-separate-container .ast-woocommerce-container{padding:.54em 1em 1.33333em;}.woocommerce-message, .woocommerce-error, .woocommerce-info{display:flex;flex-wrap:wrap;}.woocommerce-message a.button, .woocommerce-error a.button, .woocommerce-info a.button{order:1;margin-top:.5em;}.woocommerce.mobile-columns-6 ul.products li.product, .woocommerce-page.mobile-columns-6 ul.products li.product{width:calc(16.66% - 16.66px);}.woocommerce.mobile-columns-5 ul.products li.product, .woocommerce-page.mobile-columns-5 ul.products li.product{width:calc(20% - 16px);}.woocommerce.mobile-columns-4 ul.products li.product, .woocommerce-page.mobile-columns-4 ul.products li.product{width:calc(25% - 15px);}.woocommerce.mobile-columns-3 ul.products li.product, .woocommerce-page.mobile-columns-3 ul.products li.product{width:calc(33.33% - 14px);}.woocommerce.mobile-columns-2 ul.products li.product, .woocommerce-page.mobile-columns-2 ul.products li.product{width:calc(50% - 10px);}.woocommerce.mobile-columns-1 ul.products li.product, .woocommerce-page.mobile-columns-1 ul.products li.product{width:100%;}.woocommerce .woocommerce-ordering, .woocommerce-page .woocommerce-ordering{float:none;margin-bottom:2em;width:100%;}.woocommerce ul.products a.button, .woocommerce-page ul.products a.button{padding:0.5em 0.75em;}.woocommerce div.product .related.products ul.products li.product{width:calc(50% - 10px);}.woocommerce table.cart td.actions .button, .woocommerce #content table.cart td.actions .button, .woocommerce-page table.cart td.actions .button, .woocommerce-page #content table.cart td.actions .button{padding-left:1em;padding-right:1em;}.woocommerce #content table.cart .button, .woocommerce-page #content table.cart .button{width:100%;}.woocommerce #content table.cart .product-thumbnail, .woocommerce-page #content table.cart .product-thumbnail{display:block;text-align:center !important;}.woocommerce #content table.cart .product-thumbnail::before, .woocommerce-page #content table.cart .product-thumbnail::before{display:none;}.woocommerce #content table.cart td.actions .coupon, .woocommerce-page #content table.cart td.actions .coupon{float:none;}.woocommerce #content table.cart td.actions .coupon .button, .woocommerce-page #content table.cart td.actions .coupon .button{flex:1;}.woocommerce #content div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a{display:block;}}@media (max-width:544px){.woocommerce[class*="columns-"].columns-3 > ul.products li.product, .woocommerce[class*="columns-"].columns-4 > ul.products li.product, .woocommerce[class*="columns-"].columns-5 > ul.products li.product, .woocommerce[class*="columns-"].columns-6 > ul.products li.product{width:calc(50% - 10px);margin-right:20px;}.woocommerce-page[class*=columns-] ul.products li.product:nth-child(n), .woocommerce[class*=columns-] ul.products li.product:nth-child(n){margin-right:20px;clear:none;}.woocommerce-page[class*=columns-].columns-3>ul.products li.product:nth-child(2n), .woocommerce-page[class*=columns-].columns-4>ul.products li.product:nth-child(2n), .woocommerce-page[class*=columns-].columns-5>ul.products li.product:nth-child(2n), .woocommerce-page[class*=columns-].columns-6>ul.products li.product:nth-child(2n), .woocommerce[class*=columns-].columns-3>ul.products li.product:nth-child(2n), .woocommerce[class*=columns-].columns-4>ul.products li.product:nth-child(2n), .woocommerce[class*=columns-].columns-5>ul.products li.product:nth-child(2n), .woocommerce[class*=columns-].columns-6>ul.products li.product:nth-child(2n){margin-right:0;clear:right;}.woocommerce[class*="columns-"].columns-3 > ul.products li.product:nth-child(2n+1), .woocommerce[class*="columns-"].columns-4 > ul.products li.product:nth-child(2n+1), .woocommerce[class*="columns-"].columns-5 > ul.products li.product:nth-child(2n+1), .woocommerce[class*="columns-"].columns-6 > ul.products li.product:nth-child(2n+1){clear:left;}.woocommerce[class*="columns-"] ul.products li.product:nth-child(n), .woocommerce-page[class*="columns-"] ul.products li.product:nth-child(n){margin-right:20px;clear:none;}.woocommerce.mobile-columns-6 ul.products li.product:nth-child(6n), .woocommerce-page.mobile-columns-6 ul.products li.product:nth-child(6n), .woocommerce.mobile-columns-5 ul.products li.product:nth-child(5n), .woocommerce-page.mobile-columns-5 ul.products li.product:nth-child(5n), .woocommerce.mobile-columns-4 ul.products li.product:nth-child(4n), .woocommerce-page.mobile-columns-4 ul.products li.product:nth-child(4n), .woocommerce.mobile-columns-3 ul.products li.product:nth-child(3n), .woocommerce-page.mobile-columns-3 ul.products li.product:nth-child(3n), .woocommerce.mobile-columns-2 ul.products li.product:nth-child(2n), .woocommerce-page.mobile-columns-2 ul.products li.product:nth-child(2n), .woocommerce div.product .related.products ul.products li.product:nth-child(2n){margin-right:0;clear:right;}.woocommerce.mobile-columns-6 ul.products li.product:nth-child(6n+1), .woocommerce-page.mobile-columns-6 ul.products li.product:nth-child(6n+1), .woocommerce.mobile-columns-5 ul.products li.product:nth-child(5n+1), .woocommerce-page.mobile-columns-5 ul.products li.product:nth-child(5n+1), .woocommerce.mobile-columns-4 ul.products li.product:nth-child(4n+1), .woocommerce-page.mobile-columns-4 ul.products li.product:nth-child(4n+1), .woocommerce.mobile-columns-3 ul.products li.product:nth-child(3n+1), .woocommerce-page.mobile-columns-3 ul.products li.product:nth-child(3n+1), .woocommerce.mobile-columns-2 ul.products li.product:nth-child(2n+1), .woocommerce-page.mobile-columns-2 ul.products li.product:nth-child(2n+1), .woocommerce div.product .related.products ul.products li.product:nth-child(2n+1){clear:left;}.woocommerce ul.products a.button.loading::after, .woocommerce-page ul.products a.button.loading::after{display:inline-block;margin-left:5px;position:initial;}.woocommerce.mobile-columns-1 ul.products li.product:nth-child(n), .woocommerce-page.mobile-columns-1 ul.products li.product:nth-child(n){margin-right:0;}.woocommerce #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li{display:block;margin-right:0;}}@media (min-width:922px){.woocommerce #content .ast-woocommerce-container div.product div.images, .woocommerce .ast-woocommerce-container div.product div.images, .woocommerce-page #content .ast-woocommerce-container div.product div.images, .woocommerce-page .ast-woocommerce-container div.product div.images{width:50%;}.woocommerce #content .ast-woocommerce-container div.product div.summary, .woocommerce .ast-woocommerce-container div.product div.summary, .woocommerce-page #content .ast-woocommerce-container div.product div.summary, .woocommerce-page .ast-woocommerce-container div.product div.summary{width:46%;}.woocommerce.woocommerce-checkout form #customer_details.col2-set .col-1, .woocommerce.woocommerce-checkout form #customer_details.col2-set .col-2, .woocommerce-page.woocommerce-checkout form #customer_details.col2-set .col-1, .woocommerce-page.woocommerce-checkout form #customer_details.col2-set .col-2{float:none;width:auto;}}.woocommerce a.button , .woocommerce button.button.alt ,.woocommerce-page table.cart td.actions .button, .woocommerce-page #content table.cart td.actions .button , .woocommerce a.button.alt ,.woocommerce .woocommerce-message a.button , .ast-site-header-cart .widget_shopping_cart .buttons .button.checkout, .woocommerce button.button.alt.disabled , .wc-block-grid__products .wc-block-grid__product .wp-block-button__link {border:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;border-color:#df1e32;}.woocommerce a.button:hover , .woocommerce button.button.alt:hover , .woocommerce-page table.cart td.actions .button:hover, .woocommerce-page #content table.cart td.actions .button:hover, .woocommerce a.button.alt:hover ,.woocommerce .woocommerce-message a.button:hover , .ast-site-header-cart .widget_shopping_cart .buttons .button.checkout:hover , .woocommerce button.button.alt.disabled:hover , .wc-block-grid__products .wc-block-grid__product .wp-block-button__link:hover{border-color:#636365;}@media (min-width:922px){.woocommerce.woocommerce-checkout form #customer_details.col2-set, .woocommerce-page.woocommerce-checkout form #customer_details.col2-set{width:55%;float:left;margin-right:4.347826087%;}.woocommerce.woocommerce-checkout form #order_review, .woocommerce.woocommerce-checkout form #order_review_heading, .woocommerce-page.woocommerce-checkout form #order_review, .woocommerce-page.woocommerce-checkout form #order_review_heading{width:40%;float:right;margin-right:0;clear:right;}}
+</style>
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wpum-frontend-css' href='https://amcecuador.com/wp-content/plugins/wp-user-manager/assets/css/wpum.min.css?ver=2.9.7' media='all' />
+<link rel='stylesheet' id='if-menu-site-css-css' href='https://amcecuador.com/wp-content/plugins/if-menu/assets/if-menu-site.css?ver=6.2.2' media='all' />
+<link rel='stylesheet' id='dgwt-wcas-style-css' href='https://amcecuador.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.24.0' media='all' />
+<link rel='stylesheet' id='astra-addon-css-css' href='https://amcecuador.com/wp-content/uploads/astra-addon/astra-addon-649072cab39c32-26679037.css?ver=3.1.0' media='all' />
+<style id='astra-addon-css-inline-css'>
+.footer-adv .widget-title,.footer-adv .widget-title a.rsswidget,.ast-no-widget-row .widget-title{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;text-transform:inherit;}.footer-adv .widget > *:not(.widget-title){font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;}@media (min-width:922px){.ast-container{max-width:1240px;}}@media (min-width:993px){.ast-container{max-width:1240px;}}@media (min-width:1201px){.ast-container{max-width:1240px;}}#ast-scroll-top{background-color:#ac1630;font-size:0px;font-size:0rem;}.woocommerce.archive ul.products li a.button,.woocommerce > ul.products li a.button,.woocommerce related a.button,.woocommerce .related a.button,.woocommerce .up-sells a.button .woocommerce .cross-sells a.button{padding:px px;}.woocommerce ul.products li.product .onsale.circle-outline,.woocommerce ul.products li.product .onsale.square-outline,.woocommerce div.product .onsale.circle-outline,.woocommerce div.product .onsale.square-outline{background:#ffffff;border:2px solid #ac1630;color:#ac1630;}.ast-shop-load-more:hover{color:#ffffff;border-color:#ac1630;background-color:#ac1630;}.ast-loader > div{background-color:#ac1630;}.woocommerce nav.woocommerce-pagination ul li > span.current,.woocommerce nav.woocommerce-pagination ul li > .page-numbers{border-color:#ac1630;}.ast-woo-two-step-checkout .ast-checkout-slides .flex-prev.button{color:#ffffff;border-color:#636365;background-color:#636365;}.widget_layered_nav_filters ul li.chosen a::before{color:#ac1630;}.ast-site-header-cart i.astra-icon:after{background:#dd3333;color:#ffffff;}.single-product div.product .entry-title{font-family:inherit;color:#760418;}.single-product div.product .woocommerce-product-details__short-description,.single-product div.product .product_meta,.single-product div.product .entry-content{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;}.single-product div.product p.price,.single-product div.product span.price{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;color:#1b6e6c;}.woocommerce ul.products li.product .woocommerce-loop-product__title,.woocommerce-page ul.products li.product .woocommerce-loop-product__title,.wc-block-grid .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-title{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;}.woocommerce ul.products li.product .price,.woocommerce-page ul.products li.product .price,.wc-block-grid .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-price{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;}.single-product div.product .woocommerce-breadcrumb{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;}.woocommerce ul.products li.product .ast-woo-product-category,.woocommerce-page ul.products li.product .ast-woo-product-category,.woocommerce ul.products li.product .ast-woo-shop-product-description,.woocommerce-page ul.products li.product .ast-woo-shop-product-description{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;}.ast-product-navigation-wrapper .product-links a{border-color:#ac1630;color:#ac1630;}.ast-product-navigation-wrapper .product-links a:hover{background:#ac1630;color:#ffffff;}.ast-product-navigation-wrapper.circle .product-links a,.ast-product-navigation-wrapper.square .product-links a{background:#ac1630;color:#ffffff;}@media screen and ( min-width: 922px ) { .woocommerce div.product.ast-product-gallery-layout-vertical .onsale {left: 12.5%;left: -webkit-calc(12.5% - .5em);left: calc(12.5% - .5em);} .woocommerce div.product.ast-product-gallery-with-no-image .onsale {top:-.5em;left: -.5em;} }@media (min-width:922px){.woocommerce #content .ast-woocommerce-container div.product div.images,.woocommerce .ast-woocommerce-container div.product div.images,.woocommerce-page #content .ast-woocommerce-container div.product div.images,.woocommerce-page .ast-woocommerce-container div.product div.images{width:50%;}.woocommerce #content .ast-woocommerce-container div.product div.summary,.woocommerce .ast-woocommerce-container div.product div.summary,.woocommerce-page #content .ast-woocommerce-container div.product div.summary,.woocommerce-page .ast-woocommerce-container div.product div.summary{width:46%;}.woocommerce div.product.ast-product-gallery-layout-vertical div.images .flex-control-thumbs{width:calc(25% - 1em);}.woocommerce div.product.ast-product-gallery-layout-vertical div.images .flex-control-thumbs li{width:100%;}.woocommerce.ast-woo-two-step-checkout form #order_review,.woocommerce.ast-woo-two-step-checkout form #order_review_heading,.woocommerce-page.ast-woo-two-step-checkout form #order_review,.woocommerce-page.ast-woo-two-step-checkout form #order_review_heading,.woocommerce.ast-woo-two-step-checkout form #customer_details.col2-set,.woocommerce-page.ast-woo-two-step-checkout form #customer_details.col2-set{width:100%;}}@media (min-width:922px){.woocommerce div.product.ast-product-gallery-layout-vertical .flex-viewport{width:75%;float:right;}}@media (max-width:922px){.ast-product-navigation-wrapper{text-align:center;}}@media (min-width:921px){#ast-quick-view-content div.summary form.cart.stick{position:absolute;bottom:0;background:#fff;margin:0;padding:20px 30px 30px 0;width:calc(50% - 30px);}}@media (max-width:921px){#ast-quick-view-content div.summary form.cart.stick .button{padding:10px;}#ast-quick-view-modal .ast-content-main-wrapper{top:0;right:0;bottom:0;left:0;transform:none !important;width:100%;position:relative;overflow:hidden;padding:10%;}#ast-quick-view-content div.summary,#ast-quick-view-content div.images{min-width:auto;}#ast-quick-view-modal.open .ast-content-main{transform:none !important;}.woocommerce .astra-shop-filter-button,.woocommerce button.astra-shop-filter-button,.woocommerce-page .astra-shop-filter-button,.woocommerce-page button.astra-shop-filter-button{margin-bottom:10px;}}@media (max-width:921px){.woocommerce div.product .related.products ul.products li.product,.woocommerce[class*="rel-up-columns-"] div.product .related.products ul.products li.product,.woocommerce-page div.product .related.products ul.products li.product,.woocommerce-page[class*="rel-up-columns-"] div.product .related.products ul.products li.product{margin-right:20px;clear:none;}}@media (min-width:545px) and (max-width:921px){.woocommerce-page.tablet-rel-up-columns-1 div.product .related.products ul.products li.product,.woocommerce-page.tablet-rel-up-columns-1 div.product .up-sells ul.products li.product,.woocommerce.tablet-rel-up-columns-1 div.product .related.products ul.products li.product,.woocommerce.tablet-rel-up-columns-1 div.product .up-sells ul.products li.product{width:100%;margin-right:0;}.woocommerce-page.tablet-rel-up-columns-2 div.product .related.products ul.products li.product,.woocommerce-page.tablet-rel-up-columns-2 div.product .up-sells ul.products li.product,.woocommerce.tablet-rel-up-columns-2 div.product .related.products ul.products li.product,.woocommerce.tablet-rel-up-columns-2 div.product .up-sells ul.products li.product{width:calc(50% - 10px);margin-right:20px;}.woocommerce-page.tablet-rel-up-columns-2 div.product .related.products ul.products li.product:nth-child(2n),.woocommerce-page.tablet-rel-up-columns-2 div.product .up-sells ul.products li.product:nth-child(2n),.woocommerce.tablet-rel-up-columns-2 div.product .related.products ul.products li.product:nth-child(2n),.woocommerce.tablet-rel-up-columns-2 div.product .up-sells ul.products li.product:nth-child(2n){clear:right;margin-right:0;}.woocommerce-page.tablet-rel-up-columns-2 div.product .related.products ul.products li.product:nth-child(2n+1),.woocommerce-page.tablet-rel-up-columns-2 div.product .up-sells ul.products li.product:nth-child(2n+1),.woocommerce.tablet-rel-up-columns-2 div.product .related.products ul.products li.product:nth-child(2n+1),.woocommerce.tablet-rel-up-columns-2 div.product .up-sells ul.products li.product:nth-child(2n+1){clear:left;}.woocommerce-page.tablet-rel-up-columns-3 div.product .related.products ul.products li.product,.woocommerce-page.tablet-rel-up-columns-3 div.product .up-sells ul.products li.product,.woocommerce.tablet-rel-up-columns-3 div.product .related.products ul.products li.product,.woocommerce.tablet-rel-up-columns-3 div.product .up-sells ul.products li.product{width:calc(33.33% - 14px);}.woocommerce-page.tablet-rel-up-columns-3 div.product .related.products ul.products li.product:nth-child(3n),.woocommerce-page.tablet-rel-up-columns-3 div.product .up-sells ul.products li.product:nth-child(3n),.woocommerce.tablet-rel-up-columns-3 div.product .related.products ul.products li.product:nth-child(3n),.woocommerce.tablet-rel-up-columns-3 div.product .up-sells ul.products li.product:nth-child(3n){clear:right;margin-right:0;}.woocommerce-page.tablet-rel-up-columns-3 div.product .related.products ul.products li.product:nth-child(3n+1),.woocommerce-page.tablet-rel-up-columns-3 div.product .up-sells ul.products li.product:nth-child(3n+1),.woocommerce.tablet-rel-up-columns-3 div.product .related.products ul.products li.product:nth-child(3n+1),.woocommerce.tablet-rel-up-columns-3 div.product .up-sells ul.products li.product:nth-child(3n+1){clear:left;}.woocommerce-page.tablet-rel-up-columns-4 div.product .related.products ul.products li.product,.woocommerce-page.tablet-rel-up-columns-4 div.product .up-sells ul.products li.product,.woocommerce.tablet-rel-up-columns-4 div.product .related.products ul.products li.product,.woocommerce.tablet-rel-up-columns-4 div.product .up-sells ul.products li.product{width:calc(25% - 15px);}.woocommerce-page.tablet-rel-up-columns-4 div.product .related.products ul.products li.product:nth-child(4n),.woocommerce-page.tablet-rel-up-columns-4 div.product .up-sells ul.products li.product:nth-child(4n),.woocommerce.tablet-rel-up-columns-4 div.product .related.products ul.products li.product:nth-child(4n),.woocommerce.tablet-rel-up-columns-4 div.product .up-sells ul.products li.product:nth-child(4n){clear:right;margin-right:0;}.woocommerce-page.tablet-rel-up-columns-4 div.product .related.products ul.products li.product:nth-child(4n+1),.woocommerce-page.tablet-rel-up-columns-4 div.product .up-sells ul.products li.product:nth-child(4n+1),.woocommerce.tablet-rel-up-columns-4 div.product .related.products ul.products li.product:nth-child(4n+1),.woocommerce.tablet-rel-up-columns-4 div.product .up-sells ul.products li.product:nth-child(4n+1){clear:left;}.woocommerce-page.tablet-rel-up-columns-5 div.product .related.products ul.products li.product,.woocommerce-page.tablet-rel-up-columns-5 div.product .up-sells ul.products li.product,.woocommerce.tablet-rel-up-columns-5 div.product .related.products ul.products li.product,.woocommerce.tablet-rel-up-columns-5 div.product .up-sells ul.products li.product{width:calc(20% - 16px);}.woocommerce-page.tablet-rel-up-columns-5 div.product .related.products ul.products li.product:nth-child(5n),.woocommerce-page.tablet-rel-up-columns-5 div.product .up-sells ul.products li.product:nth-child(5n),.woocommerce.tablet-rel-up-columns-5 div.product .related.products ul.products li.product:nth-child(5n),.woocommerce.tablet-rel-up-columns-5 div.product .up-sells ul.products li.product:nth-child(5n){clear:right;margin-right:0;}.woocommerce-page.tablet-rel-up-columns-5 div.product .related.products ul.products li.product:nth-child(5n+1),.woocommerce-page.tablet-rel-up-columns-5 div.product .up-sells ul.products li.product:nth-child(5n+1),.woocommerce.tablet-rel-up-columns-5 div.product .related.products ul.products li.product:nth-child(5n+1),.woocommerce.tablet-rel-up-columns-5 div.product .up-sells ul.products li.product:nth-child(5n+1){clear:left;}.woocommerce-page.tablet-rel-up-columns-6 div.product .related.products ul.products li.product,.woocommerce-page.tablet-rel-up-columns-6 div.product .up-sells ul.products li.product,.woocommerce.tablet-rel-up-columns-6 div.product .related.products ul.products li.product,.woocommerce.tablet-rel-up-columns-6 div.product .up-sells ul.products li.product{width:calc(16.66% - 17px);}.woocommerce-page.tablet-rel-up-columns-6 div.product .related.products ul.products li.product:nth-child(6n),.woocommerce-page.tablet-rel-up-columns-6 div.product .up-sells ul.products li.product:nth-child(6n),.woocommerce.tablet-rel-up-columns-6 div.product .related.products ul.products li.product:nth-child(6n),.woocommerce.tablet-rel-up-columns-6 div.product .up-sells ul.products li.product:nth-child(6n){clear:right;margin-right:0;}.woocommerce-page.tablet-rel-up-columns-6 div.product .related.products ul.products li.product:nth-child(6n+1),.woocommerce-page.tablet-rel-up-columns-6 div.product .up-sells ul.products li.product:nth-child(6n+1),.woocommerce.tablet-rel-up-columns-6 div.product .related.products ul.products li.product:nth-child(6n+1),.woocommerce.tablet-rel-up-columns-6 div.product .up-sells ul.products li.product:nth-child(6n+1){clear:left;}}@media (min-width:545px){#ast-quick-view-content div.summary{content:544;overflow-y:auto;}}@media (max-width:544px){.woocommerce-page.mobile-rel-up-columns-1 div.product .related.products ul.products li.product,.woocommerce-page.mobile-rel-up-columns-1 div.product .up-sells ul.products li.product,.woocommerce.mobile-rel-up-columns-1 div.product .related.products ul.products li.product,.woocommerce.mobile-rel-up-columns-1 div.product .up-sells ul.products li.product{width:100%;margin-right:0;}.woocommerce-page.mobile-rel-up-columns-2 div.product .related.products ul.products li.product,.woocommerce-page.mobile-rel-up-columns-2 div.product .up-sells ul.products li.product,.woocommerce.mobile-rel-up-columns-2 div.product .related.products ul.products li.product,.woocommerce.mobile-rel-up-columns-2 div.product .up-sells ul.products li.product{width:calc(50% - 10px);}.woocommerce-page.mobile-rel-up-columns-2 div.product .related.products ul.products li.product:nth-child(2n),.woocommerce-page.mobile-rel-up-columns-2 div.product .up-sells ul.products li.product:nth-child(2n),.woocommerce.mobile-rel-up-columns-2 div.product .related.products ul.products li.product:nth-child(2n),.woocommerce.mobile-rel-up-columns-2 div.product .up-sells ul.products li.product:nth-child(2n){margin-right:0;clear:right;}.woocommerce-page.mobile-rel-up-columns-2 div.product .related.products ul.products li.product:nth-child(2n+1),.woocommerce-page.mobile-rel-up-columns-2 div.product .up-sells ul.products li.product:nth-child(2n+1),.woocommerce.mobile-rel-up-columns-2 div.product .related.products ul.products li.product:nth-child(2n+1),.woocommerce.mobile-rel-up-columns-2 div.product .up-sells ul.products li.product:nth-child(2n+1){clear:left;}.woocommerce-page.mobile-rel-up-columns-3 div.product .related.products ul.products li.product,.woocommerce-page.mobile-rel-up-columns-3 div.product .up-sells ul.products li.product,.woocommerce.mobile-rel-up-columns-3 div.product .related.products ul.products li.product,.woocommerce.mobile-rel-up-columns-3 div.product .up-sells ul.products li.product{width:calc(33.33% - 14px);margin-right:20px;}.woocommerce-page.mobile-rel-up-columns-3 div.product .related.products ul.products li.product:nth-child(3n),.woocommerce-page.mobile-rel-up-columns-3 div.product .up-sells ul.products li.product:nth-child(3n),.woocommerce.mobile-rel-up-columns-3 div.product .related.products ul.products li.product:nth-child(3n),.woocommerce.mobile-rel-up-columns-3 div.product .up-sells ul.products li.product:nth-child(3n){margin-right:0;clear:right;}.woocommerce-page.mobile-rel-up-columns-3 div.product .related.products ul.products li.product:nth-child(3n+1),.woocommerce-page.mobile-rel-up-columns-3 div.product .up-sells ul.products li.product:nth-child(3n+1),.woocommerce.mobile-rel-up-columns-3 div.product .related.products ul.products li.product:nth-child(3n+1),.woocommerce.mobile-rel-up-columns-3 div.product .up-sells ul.products li.product:nth-child(3n+1){clear:left;}.woocommerce-page.mobile-rel-up-columns-4 div.product .related.products ul.products li.product,.woocommerce-page.mobile-rel-up-columns-4 div.product .up-sells ul.products li.product,.woocommerce.mobile-rel-up-columns-4 div.product .related.products ul.products li.product,.woocommerce.mobile-rel-up-columns-4 div.product .up-sells ul.products li.product{width:calc(25% - 15px);margin-right:20px;clear:none;}.woocommerce-page.mobile-rel-up-columns-4 div.product .related.products ul.products li.product:nth-child(4n),.woocommerce-page.mobile-rel-up-columns-4 div.product .up-sells ul.products li.product:nth-child(4n),.woocommerce.mobile-rel-up-columns-4 div.product .related.products ul.products li.product:nth-child(4n),.woocommerce.mobile-rel-up-columns-4 div.product .up-sells ul.products li.product:nth-child(4n){clear:right;margin-right:0;}.woocommerce-page.mobile-rel-up-columns-4 div.product .related.products ul.products li.product:nth-child(4n+1),.woocommerce-page.mobile-rel-up-columns-4 div.product .up-sells ul.products li.product:nth-child(4n+1),.woocommerce.mobile-rel-up-columns-4 div.product .related.products ul.products li.product:nth-child(4n+1),.woocommerce.mobile-rel-up-columns-4 div.product .up-sells ul.products li.product:nth-child(4n+1){clear:left;}.woocommerce-page.mobile-rel-up-columns-5 div.product .related.products ul.products li.product,.woocommerce-page.mobile-rel-up-columns-5 div.product .up-sells ul.products li.product,.woocommerce.mobile-rel-up-columns-5 div.product .related.products ul.products li.product,.woocommerce.mobile-rel-up-columns-5 div.product .up-sells ul.products li.product{width:calc(20% - 16px);}.woocommerce-page.mobile-rel-up-columns-5 div.product .related.products ul.products li.product:nth-child(5n),.woocommerce-page.mobile-rel-up-columns-5 div.product .up-sells ul.products li.product:nth-child(5n),.woocommerce.mobile-rel-up-columns-5 div.product .related.products ul.products li.product:nth-child(5n),.woocommerce.mobile-rel-up-columns-5 div.product .up-sells ul.products li.product:nth-child(5n){margin-right:0;clear:right;}.woocommerce-page.mobile-rel-up-columns-5 div.product .related.products ul.products li.product:nth-child(5n+1),.woocommerce-page.mobile-rel-up-columns-5 div.product .up-sells ul.products li.product:nth-child(5n+1),.woocommerce.mobile-rel-up-columns-5 div.product .related.products ul.products li.product:nth-child(5n+1),.woocommerce.mobile-rel-up-columns-5 div.product .up-sells ul.products li.product:nth-child(5n+1){clear:left;}.woocommerce-page.mobile-rel-up-columns-6 div.product .related.products ul.products li.product,.woocommerce-page.mobile-rel-up-columns-6 div.product .up-sells ul.products li.product,.woocommerce.mobile-rel-up-columns-6 div.product .related.products ul.products li.product,.woocommerce.mobile-rel-up-columns-6 div.product .up-sells ul.products li.product{width:calc(16.66% - 17px);}.woocommerce-page.mobile-rel-up-columns-6 div.product .related.products ul.products li.product:nth-child(6n),.woocommerce-page.mobile-rel-up-columns-6 div.product .up-sells ul.products li.product:nth-child(6n),.woocommerce.mobile-rel-up-columns-6 div.product .related.products ul.products li.product:nth-child(6n),.woocommerce.mobile-rel-up-columns-6 div.product .up-sells ul.products li.product:nth-child(6n){margin-right:0;clear:right;}.woocommerce-page.mobile-rel-up-columns-6 div.product .related.products ul.products li.product:nth-child(6n+1),.woocommerce-page.mobile-rel-up-columns-6 div.product .up-sells ul.products li.product:nth-child(6n+1),.woocommerce.mobile-rel-up-columns-6 div.product .related.products ul.products li.product:nth-child(6n+1),.woocommerce.mobile-rel-up-columns-6 div.product .up-sells ul.products li.product:nth-child(6n+1){clear:left;}.woocommerce button.astra-shop-filter-button,.woocommerce-page button.astra-shop-filter-button{float:none;display:block;}#ast-quick-view-content{max-width:initial !important;max-height:initial !important;}#ast-quick-view-content div.images{width:100%;float:none;}#ast-quick-view-content div.summary{width:100%;float:left;margin:0;padding:15px;max-height:initial !important;}.ast-header-break-point .ast-above-header-mobile-inline.mobile-header-order-2 .ast-masthead-custom-menu-items.woocommerce-custom-menu-item{margin-left:0;}.ast-header-break-point .ast-above-header-mobile-inline.mobile-header-order-3 .ast-masthead-custom-menu-items.woocommerce-custom-menu-item,.ast-header-break-point .ast-above-header-mobile-inline.mobile-header-order-5 .ast-masthead-custom-menu-items.woocommerce-custom-menu-item{margin-right:0;}}
+</style>
+<link rel='stylesheet' id='elementor-icons-css' href='https://amcecuador.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css' href='https://amcecuador.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.5.6' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://amcecuador.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.5.6' media='all' />
+<link rel='stylesheet' id='elementor-post-13-css' href='https://amcecuador.com/wp-content/uploads/elementor/css/post-13.css?ver=1686765420' media='all' />
+<link rel='stylesheet' id='powerpack-frontend-css' href='https://amcecuador.com/wp-content/plugins/powerpack-elements/assets/css/min/frontend.min.css?ver=2.9.21' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://amcecuador.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.6.3' media='all' />
+<link rel='stylesheet' id='uael-frontend-css' href='https://amcecuador.com/wp-content/plugins/ultimate-elementor/assets/min-css/uael-frontend.min.css?ver=1.27.1' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://amcecuador.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.5.6' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://amcecuador.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.5.6' media='all' />
+<link rel='stylesheet' id='elementor-post-45-css' href='https://amcecuador.com/wp-content/uploads/elementor/css/post-45.css?ver=1687275497' media='all' />
+<link rel='stylesheet' id='elementor-post-381-css' href='https://amcecuador.com/wp-content/uploads/elementor/css/post-381.css?ver=1688673065' media='all' />
+<link rel='stylesheet' id='elementor-post-1287-css' href='https://amcecuador.com/wp-content/uploads/elementor/css/post-1287.css?ver=1686765420' media='all' />
+<link rel='stylesheet' id='elementor-post-9667-css' href='https://amcecuador.com/wp-content/uploads/elementor/css/post-9667.css?ver=1686765420' media='all' />
+<link rel='stylesheet' id='elementor-post-5806-css' href='https://amcecuador.com/wp-content/uploads/elementor/css/post-5806.css?ver=1686765420' media='all' />
+<link rel='stylesheet' id='elementor-post-1379-css' href='https://amcecuador.com/wp-content/uploads/elementor/css/post-1379.css?ver=1687207626' media='all' />
+<link rel='stylesheet' id='elementor-post-1365-css' href='https://amcecuador.com/wp-content/uploads/elementor/css/post-1365.css?ver=1686765420' media='all' />
+<link rel='stylesheet' id='flexible-shipping-free-shipping-css' href='https://amcecuador.com/wp-content/plugins/flexible-shipping/assets/dist/css/free-shipping.css?ver=4.21.3.2' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRajdhani%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CQuestrial%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.2.2' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://amcecuador.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://amcecuador.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://amcecuador.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://amcecuador.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<script id='jquery-core-js-extra'>
+var pp = {"ajax_url":"https:\/\/amcecuador.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='https://amcecuador.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script src='https://amcecuador.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<!--[if IE]>
+<script src='https://amcecuador.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=3.0.2' id='astra-flexibility-js'></script>
+<script id='astra-flexibility-js-after'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script id='nta-js-popup-js-extra'>
+var ntawaAjax = {"url":"https:\/\/amcecuador.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='https://amcecuador.com/wp-content/plugins/whatsapp-for-wordpress/assets/js/main.js?ver=6.2.2' id='nta-js-popup-js'></script>
+<script src='https://amcecuador.com/wp-content/plugins/woo-title-limit/public/js/woo-title-limit-public.js?ver=2.0.3' id='woo-title-limit-js'></script>
+<script id='fue-account-subscriptions-js-extra'>
+var FUE = {"ajaxurl":"https:\/\/amcecuador.com\/wp-admin\/admin-ajax.php","ajax_loader":"https:\/\/amcecuador.com\/wp-content\/plugins\/woocommerce-follow-up-emails\/templates\/images\/ajax-loader.gif"};
+</script>
+<script src='https://amcecuador.com/wp-content/plugins/woocommerce-follow-up-emails/templates/js/fue-account-subscriptions.js?ver=4.9.8' id='fue-account-subscriptions-js'></script>
+<script src='https://amcecuador.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.5.6' id='font-awesome-4-shim-js'></script>
+<script src='https://amcecuador.com/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.2.2' id='jquery-bind-first-js'></script>
+<script src='https://amcecuador.com/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3' id='js-cookie-pys-js'></script>
+<script id='pys-js-extra'>
+var pysOptions = {"staticEvents":{"facebook":{"init_event":[{"delay":0,"type":"static","name":"PageView","pixelIds":["527744191736684"],"eventID":"fa576f67-a643-44a1-9ef1-d627ec53a00b","params":{"page_title":"Inicio","post_type":"page","post_id":45,"plugin":"PixelYourSite","user_role":"guest","event_url":"amcecuador.com\/"},"e_id":"init_event","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}]}},"dynamicEvents":{"automatic_event_form":{"facebook":{"delay":0,"type":"dyn","name":"Form","pixelIds":["527744191736684"],"eventID":"735018f0-30fe-41a8-b2bb-31b42957f82f","params":{"page_title":"Inicio","post_type":"page","post_id":45,"plugin":"PixelYourSite","user_role":"guest","event_url":"amcecuador.com\/"},"e_id":"automatic_event_form","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_download":{"facebook":{"delay":0,"type":"dyn","name":"Download","extensions":["","doc","exe","js","pdf","ppt","tgz","zip","xls"],"pixelIds":["527744191736684"],"eventID":"86c34cc4-8ae9-4d01-970e-24533d5513cb","params":{"page_title":"Inicio","post_type":"page","post_id":45,"plugin":"PixelYourSite","user_role":"guest","event_url":"amcecuador.com\/"},"e_id":"automatic_event_download","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"automatic_event_comment":{"facebook":{"delay":0,"type":"dyn","name":"Comment","pixelIds":["527744191736684"],"eventID":"1ccc8a60-af1a-47d4-ae3a-c0c475096bd2","params":{"page_title":"Inicio","post_type":"page","post_id":45,"plugin":"PixelYourSite","user_role":"guest","event_url":"amcecuador.com\/"},"e_id":"automatic_event_comment","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}},"woo_add_to_cart_on_button_click":{"facebook":{"delay":0,"type":"dyn","name":"AddToCart","pixelIds":["527744191736684"],"eventID":"eea16b80-6d14-4080-979e-634ab862ed28","params":{"page_title":"Inicio","post_type":"page","post_id":45,"plugin":"PixelYourSite","user_role":"guest","event_url":"amcecuador.com\/"},"e_id":"woo_add_to_cart_on_button_click","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}}},"triggerEvents":[],"triggerEventTypes":[],"facebook":{"pixelIds":["527744191736684"],"advancedMatching":[],"removeMetadata":false,"contentParams":{"post_type":"page","post_id":45,"content_name":"Inicio"},"commentEventEnabled":true,"wooVariableAsSimple":false,"downloadEnabled":true,"formEventEnabled":true,"ajaxForServerEvent":true,"serverApiEnabled":false,"wooCRSendFromServer":false},"debug":"","siteUrl":"https:\/\/amcecuador.com","ajaxUrl":"https:\/\/amcecuador.com\/wp-admin\/admin-ajax.php","ajax_event":"dcf298e29b","enable_remove_download_url_param":"1","cookie_duration":"7","last_visit_duration":"60","enable_success_send_form":"","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":null,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_tiktok_consent_category":"marketing","cookiebot_google_ads_consent_category":null,"cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","consent_magic_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false},"cookie":{"disabled_all_cookie":false,"disabled_advanced_form_data_cookie":false,"disabled_landing_page_cookie":false,"disabled_first_visit_cookie":false,"disabled_trafficsource_cookie":false,"disabled_utmTerms_cookie":false,"disabled_utmId_cookie":false},"woo":{"enabled":true,"enabled_save_data_to_orders":true,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","singleProductId":null,"removeFromCartSelector":"form.woocommerce-cart-form .remove","addToCartCatchMethod":"add_cart_js","is_order_received_page":false,"containOrderId":false},"edd":{"enabled":false}};
+</script>
+<script src='https://amcecuador.com/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=9.3.9' id='pys-js'></script>
+
+<!-- Fragmento de código de Google Analytics añadido por Site Kit -->
+<script src='https://www.googletagmanager.com/gtag/js?id=UA-192340199-1' id='google_gtagjs-js' async></script>
+<script id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["amcecuador.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-192340199-1", {"anonymize_ip":true});
+</script>
+
+<!-- Final del fragmento de código de Google Analytics añadido por Site Kit -->
+<link rel="https://api.w.org/" href="https://amcecuador.com/wp-json/" /><link rel="alternate" type="application/json" href="https://amcecuador.com/wp-json/wp/v2/pages/45" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://amcecuador.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://amcecuador.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<meta name="generator" content="WooCommerce 7.8.1" />
+<link rel='shortlink' href='https://amcecuador.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://amcecuador.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Famcecuador.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://amcecuador.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Famcecuador.com%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.103.0" />        <style>
+            .wa__stt_offline{
+                pointer-events: none;
+            }
+
+            .wa__button_text_only_me .wa__btn_txt{
+                padding-top: 16px !important;
+                padding-bottom: 15px !important;
+            }
+
+            .wa__popup_content_item .wa__cs_img_wrap{
+                width: 48px;
+                height: 48px;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading{
+                background: #2db742;
+            }
+
+            .wa__btn_popup .wa__btn_popup_icon{
+                background: #2db742;
+            }
+
+            .wa__popup_chat_box .wa__stt{
+                border-left: 2px solid  #2db742;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading .wa__popup_title{
+                color: #fff;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading .wa__popup_intro{
+                color: #fff;
+                opacity: 0.8;
+            }
+
+            .wa__popup_chat_box .wa__popup_heading .wa__popup_intro strong{
+
+            }
+
+                            .wa__btn_popup{
+                    left: 30px;
+                    right: unset;
+                }
+
+                .wa__btn_popup .wa__btn_popup_txt{
+                    left: 100%;
+                }
+
+                .wa__popup_chat_box{
+                    left: 25px;
+                }
+            
+        </style>
+
+        <style></style>		<style>
+			.dgwt-wcas-ico-magnifier,.dgwt-wcas-ico-magnifier-handler{max-width:20px}.dgwt-wcas-search-wrapp{max-width:80px}.dgwt-wcas-search-wrapp .dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input,.dgwt-wcas-search-wrapp .dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input:hover,.dgwt-wcas-search-wrapp .dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input:focus{background-color:#ededed;color:#000;border-color:#fff}.dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input::placeholder{color:#000;opacity:.3}.dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input::-webkit-input-placeholder{color:#000;opacity:.3}.dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input:-moz-placeholder{color:#000;opacity:.3}.dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input::-moz-placeholder{color:#000;opacity:.3}.dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input:-ms-input-placeholder{color:#000}.dgwt-wcas-no-submit.dgwt-wcas-search-wrapp .dgwt-wcas-ico-magnifier path,.dgwt-wcas-search-wrapp .dgwt-wcas-close path{fill:#000}.dgwt-wcas-loader-circular-path{stroke:#000}.dgwt-wcas-preloader{opacity:.6}.dgwt-wcas-suggestions-wrapp,.dgwt-wcas-details-wrapp{background-color:#fff}.dgwt-wcas-suggestion-selected{background-color:#c1c1c1}.dgwt-wcas-suggestions-wrapp *,.dgwt-wcas-details-wrapp *,.dgwt-wcas-sd,.dgwt-wcas-suggestion *{color:#000}.dgwt-wcas-st strong,.dgwt-wcas-sd strong{color:#d33}.dgwt-wcas-suggestions-wrapp,.dgwt-wcas-details-wrapp,.dgwt-wcas-suggestion,.dgwt-wcas-datails-title,.dgwt-wcas-details-more-products{border-color:#dd7c7c!important}.dgwt-wcas-search-icon{color:#777777}.dgwt-wcas-search-icon path{fill:#777777}		</style>
+			<style>
+		/* Slide Search */
+		.ast-dropdown-active .search-form {
+			padding-left: 0 !important;
+		}
+
+		.ast-dropdown-active .ast-search-icon {
+			visibility: hidden;
+		}
+
+		.ast-search-menu-icon .search-form {
+			padding: 0;
+		}
+
+		.search-custom-menu-item .search-field {
+			display: none;
+		}
+
+		.search-custom-menu-item .search-form {
+			background-color: transparent !important;
+			border: 0;
+		}
+
+		/* Search Box */
+		.site-header .ast-inline-search.ast-search-menu-icon .search-form {
+			padding-right: 0;
+		}
+
+		/* Full Screen Search */
+		.ast-search-box.full-screen .ast-search-wrapper {
+			top: 25%;
+			transform: translate(-50%, -25%);
+		}
+	</style>
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style>.qib-container input[type='number']:not(#qib_id):not(#qib_id){-moz-appearance:textfield;}.qib-container input[type='number']:not(#qib_id):not(#qib_id)::-webkit-outer-spin-button,.qib-container input[type='number']:not(#qib_id):not(#qib_id)::-webkit-inner-spin-button{-webkit-appearance:none;display:none;margin:0;}form.cart button[type='submit']:not(#qib_id):not(#qib_id),.add_to_cart_button:not(#qib_id):not(#qib_id),form.cart .qib-container + div:not(#qib_id):not(#qib_id){display:inline-block;margin:0;padding-top:0;padding-bottom:0;float:none;vertical-align:top;text-align:center;}form.cart button[type='submit']:not(#qib_id):not(#qib_id):not(_),.add_to_cart_button:not(a):not(#qib_id):not(#qib_id){line-height:1;}form.cart button[type='submit']:not(#qib_id):not(#qib_id):not(_):not(_){height:37px;text-align:center;}.add_to_cart_button:not(#qib_id):not(#qib_id):not(_){line-height:37px;margin-top:0;}form.cart .qib-container + button[type='submit']:not(#qib_id):not(#qib_id),form.cart .qib-container + div:not(#qib_id):not(#qib_id):not(_){margin-left:1em;}form.cart button[type='submit']:focus:not(#qib_id):not(#qib_id){outline-width:2px;outline-offset:-2px;outline-style:solid;}.qib-container div.quantity:not(#qib_id):not(#qib_id) {float:none;line-height:1;display:inline-block;margin:0;padding:0;border:none;border-radius:0;width:auto;min-height:initial;min-width:initial;max-height:initial;max-width:initial;}.qib-button:not(#qib_id):not(#qib_id){line-height:1;display:inline-block;margin:0;padding:0;box-sizing:border-box;height:37px;width:24px;color:black;background:#e2e2e2;border-color:#cac9c9;min-height:initial;min-width:initial;max-height:initial;max-width:initial;vertical-align:middle;font-size:16px;letter-spacing:0;border-style:solid;border-width:1px;transition:none;border-radius:4px;}.qib-button:focus:not(#qib_id):not(#qib_id) {border:2px #b3b3aa solid;outline:none;}.qib-button:hover:not(#qib_id):not(#qib_id) {background:#d6d5d5;}.qib-container .quantity input.qty:not(#qib_id):not(#qib_id){line-height:1;background:none;text-align:center;vertical-align:middle;margin:0;padding:0;box-sizing:border-box;height:37px;width:35px;min-height:initial;min-width:initial;max-height:initial;max-width:initial;box-shadow:none;font-size:15px;border-style:solid;border-color:#cac9c9;border-width:1px;border-radius:4px;}.qib-container .quantity input.qty:focus:not(#qib_id):not(#qib_id) {border-color:#cac9c9;outline:none;border-width:2px;border-style:solid;}.woocommerce table.cart td.product-quantity:not(#qib_id):not(#qib_id){white-space:nowrap;}@media (min-width:768px){.woocommerce table.cart td.product-quantity:not(#qib_id):not(#qib_id){text-align:left;}}.woocommerce table.cart:not(#qib_id):not(#qib_id){table-layout:auto;}.qib-container > *:not(:last-child):not(#qib_id):not(#qib_id){margin-right:5px!important;}.qib-container:not(#qib_id):not(#qib_id) {display:inline-flex;}.woocommerce-grouped-product-list-item__quantity:not(#qib_id):not(#qib_id){margin:0;padding-left:0;padding-right:0;text-align:left;}.woocommerce-grouped-product-list-item__quantity .qib-container:not(#qib_id):not(#qib_id){display:flex;}.quantity .minus:not(#qib_id):not(#qib_id),.quantity .plus:not(#qib_id):not(#qib_id),.quantity > a:not(#qib_id):not(#qib_id){display:none;}.products.oceanwp-row .qib-container:not(#qib_id):not(#qib_id){margin-bottom:8px;}</style><link rel="icon" href="https://amcecuador.com/wp-content/uploads/2020/12/cropped-AMC-logo-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://amcecuador.com/wp-content/uploads/2020/12/cropped-AMC-logo-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://amcecuador.com/wp-content/uploads/2020/12/cropped-AMC-logo-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://amcecuador.com/wp-content/uploads/2020/12/cropped-AMC-logo-1-270x270.png" />
+		<style id="wp-custom-css">
+			
+
+/** Start Template Kit CSS: Construction &amp; Industrial (css/customizer.css) **/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Home
+# About Us
+# Services
+# FAQ
+# Projects
+	## Project 2 Columns
+	## Project 3 Columns
+	## Project 4 Columns
+# Contact Us
+# Contact Us - Style 2
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Home
+--------------------------------------------------------------*/
+.collection-10-main-slider .slick-slide-inner{
+	position:relative;
+	overflow:hidden;
+}
+
+.collection-10-main-slider .slick-slide-inner:before{
+	content:"";
+	display:block;
+	position:absolute;
+	top:-1000px;
+	left:-1200px;
+	width:2000px;
+	height:2000px;
+	background-color:#ff3600;
+	opacity:0.7;
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	transform:rotate(45deg);
+	z-index:99;
+}
+
+.collection-10-main-slider .slick-slide-inner:after{
+	content:"";
+	display:block;
+	position:absolute;
+	top:50%;
+	left:100px;
+	width:250px;
+	height:1px;
+	margin-top:75px;
+	background-color:#fff;
+	opacity:0.7;
+	z-index:102;
+}
+
+/*.collection-10-main-slider .slick-slide-inner a:before{
+	content:"Contact Us";
+	display:inline-block;
+	position:absolute;
+	top:50%;
+	margin-top:100px;
+	font-family:Roboto, sans-serif;
+	text-transform:uppercase;
+	left:100px;
+	padding:10px 20px;
+	border:2px solid #fff;
+	color:#fff;
+	z-index:101;
+}*/
+
+.collection-10-main-slider .elementor-image-carousel-caption{
+	position:absolute;
+	top:50%;
+	left:100px;
+	max-width:600px;
+	text-align:left !important;
+	-moz-transform:translateY(-50%);
+	-webkit-transform:translateY(-50%);
+	transform:translateY(-50%);
+	z-index:100;
+}
+
+@media only screen and ( max-width: 1550px ){
+	.collection-10-main-slider .slick-slide-inner:before{
+		left:-1360px;
+	}
+}
+
+@media only screen and ( max-width: 1200px ){
+	.collection-10-main-slider .elementor-image-carousel-caption{
+		font-size:3em !important;
+	}
+
+	.home-out-col > .elementor-column-wrap{
+		margin-top:0px !important;
+	}
+}
+
+@media only screen and ( max-width: 1100px ){
+	.collection-10-main-slider .slick-slide-inner:before{
+		top:0px;
+		left:0px;
+		width:650px;
+		-moz-transform:none;
+		-webkit-transform:none;
+		transform:none;
+	}
+}
+
+@media only screen and ( max-width: 920px ){
+
+	.collection-10-main-slider .slick-slide-inner:before{
+		display:none;
+	}
+
+	.collection-10-main-slider .slick-slide-inner:after{
+		display:none;
+	}
+
+	.collection-10-main-slider .slick-slide-inner a:before{
+		display:none;
+	}
+
+	.collection-10-main-slider .elementor-image-carousel-caption{
+		position:static;
+		max-width:none;
+		text-align:left !important;
+		-moz-transform:none;
+		-webkit-transform:none;
+		transform:none;
+		font-size:2em;
+		padding:30px;
+		background-color:#ff3600;
+	}
+}
+
+@media only screen and ( max-width: 920px ){
+	.collection-10-main-slider .elementor-image-carousel-caption{
+		font-size:1.5em !important;
+	}
+}
+
+@media only screen and ( max-width: 668px ){
+	.collection-10-main-slider .elementor-image-carousel-caption{
+		font-size:1.3em !important;
+	}
+}
+
+/*--------------------------------------------------------------
+# About Us
+--------------------------------------------------------------*/
+
+.collection-10-no-col{
+	min-width:75px;
+}
+
+/*--------------------------------------------------------------
+# Services
+--------------------------------------------------------------*/
+.collection-10-service-image .wp-caption{
+	position:relative;
+}
+.collection-10-service-image .wp-caption-text{
+	position:absolute;
+	bottom:70px;
+	left:20px;
+	text-shadow:1px 1px 1px rgba(0,0,0,0.4);
+	z-index:99;
+}
+
+.collection-10-service-image .wp-caption a:after{
+	content:"Read More";
+	font-family:"Roboto", sans-serif;
+	padding:10px 20px;
+	font-size:0.871em;
+	line-height:1em;
+	border:1px solid #fff;
+	color:#fff;
+	position:absolute;
+	bottom:20px;
+	left:20px;
+	text-shadow:1px 1px 1px rgba(0,0,0,0.4);
+	box-shadow:1px 1px 1px rgba(0,0,0,0.4);
+	z-index:100;
+}
+
+.collection-10-service-image .wp-caption a:hover:after{
+	background-color:#fff;
+	color:#1d1d37;
+	text-shadow:none;
+}
+
+/*--------------------------------------------------------------
+# FAQ
+--------------------------------------------------------------*/
+.collection-10-accordion .elementor-toggle-item{
+	border: 2px solid #f1f2f4;
+	padding:50px 0;
+	margin-bottom:20px !important;
+}
+
+.collection-10-accordion .elementor-toggle-icon{
+	display:none !important;
+}
+
+.collection-10-accordion .elementor-tab-title{
+	border-bottom:0 !important;
+	outline:none;
+	font-size:22px;
+	line-height:2.2rem;
+	margin:0 165px !important;
+	padding:0 30px !important;
+	position:relative;
+	color:#23232c !important;
+}
+
+.collection-10-accordion .elementor-tab-title:before{
+	content:"QUESTIONS";
+	display:block;
+	position:absolute;
+	top:7px;
+	left:-100px;
+	font-size:12px;
+	line-height:2.1em;
+	color:#7c7c80;
+}
+
+.collection-10-accordion .elementor-tab-title:after{
+	content:"\f067";
+	font-family:'FontAwesome';
+	display:block;
+	position:absolute;
+	top:-13px;
+	right:-100px;
+	width:50px;
+	height:50px;
+	font-size:14px;
+	text-align:center;
+	line-height:47px;
+	-webkit-border-radius:50%;
+	-moz-border-radius:50%;
+	border-radius:50%;
+	color:#7c7c80;
+	border:2px solid #f1f2f4;
+	-webkit-transition:all 0.5s cubic-bezier(.22, .52, .25, .93);
+	-moz-transition:all 0.5s cubic-bezier(.22, .52, .25, .93);
+	transition:all 0.5s cubic-bezier(.22, .52, .25, .93);
+}
+
+.collection-10-accordion .elementor-tab-title.elementor-active:after{
+	content:"\f068";
+	color:#23232c;
+	border:2px solid #23232c;
+}
+
+.collection-10-accordion .elementor-tab-content{
+	border-bottom:0 !important;
+	outline:none;
+	font-size:16px;
+	line-height:1.7em;
+	margin:0 165px !important;
+	padding:50px 30px 0 !important;
+	position:relative;
+}
+
+@media only screen and (max-width:668px){
+	.collection-10-accordion .elementor-tab-title{
+		margin-left:0px !important;
+		margin-right:70px !important;
+	}
+
+	.collection-10-accordion .elementor-tab-title:before{
+		display:none;
+	}
+
+	.collection-10-accordion .elementor-tab-title:after{
+		right:-30px;
+	}
+
+	.collection-10-accordion .elementor-tab-content{
+		margin-left:0px !important;
+		margin-right:20px !important;
+	}
+}
+
+/*--------------------------------------------------------------
+# Projects
+--------------------------------------------------------------*/
+.project-col .wp-caption{
+    position:relative;
+	overflow:hidden;
+}
+.project-col .wp-caption img{
+    transition:opacity 0.5s ease-out;
+    -webkit-transition:opacity 0.5s ease-out;
+    -moz-transition:opacity 0.5s ease-out;
+}
+.project-col .wp-caption:hover img{
+    opacity: 0.9;
+}
+.project-col .wp-caption .wp-caption-text{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background-color: #fff;
+	padding-left:28px;
+	padding-right:14px;
+}
+.project-col .wp-caption .wp-caption-text:after{
+	content: "";
+	display: block;
+	position: absolute;
+	bottom: 0px;
+	right: -75px;
+	height: 0px;
+	width: 0px;
+	border-left: 75px solid #fff;
+	border-bottom: 75px solid transparent;
+	border-top: 0px solid transparent;
+}
+/*--------------------------------------------------------------
+## Projects 2 Columns
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+## Projects 3 Columns
+--------------------------------------------------------------*/
+.project-col-3 .wp-caption .wp-caption-text{
+	position: absolute;
+	padding-left:18px;
+	padding-right:10px;
+}
+
+/*--------------------------------------------------------------
+## Projects 4 Columns
+--------------------------------------------------------------*/
+.project-col-4 .wp-caption .wp-caption-text{
+    position: absolute;
+	padding-left:14px;
+	padding-right:10px;
+}
+
+/*--------------------------------------------------------------
+# Contact Us
+--------------------------------------------------------------*/
+.heading-with-border{
+    position:relative;
+}
+.heading-with-border:after{
+    content:"";
+    display:block;
+    position:absolute;
+    bottom:-15px;
+    left:0px;
+    height:2px;
+    width:110px;
+    background-color:#ff3600;
+}
+
+/*--------------------------------------------------------------
+# Contact Us - Style 2
+--------------------------------------------------------------*/
+.heading-with-border{
+    position:relative;
+}
+.heading-with-border:after{
+    content:"";
+    display:block;
+    position:absolute;
+    bottom:-15px;
+    left:0px;
+    height:2px;
+    width:110px;
+    background-color:#ff3600;
+}
+
+/** End Template Kit CSS: Construction &amp; Industrial (css/customizer.css) **/
+
+
+
+/** Start Block Kit CSS: 144-3-3a7d335f39a8579c20cdf02f8d462582 **/
+
+.envato-block__preview{overflow: visible;}
+
+/* Envato Kit 141 Custom Styles - Applied to the element under Advanced */
+
+.elementor-headline-animation-type-drop-in .elementor-headline-dynamic-wrapper{
+	text-align: center;
+}
+.envato-kit-141-top-0 h1,
+.envato-kit-141-top-0 h2,
+.envato-kit-141-top-0 h3,
+.envato-kit-141-top-0 h4,
+.envato-kit-141-top-0 h5,
+.envato-kit-141-top-0 h6,
+.envato-kit-141-top-0 p {
+	margin-top: 0;
+}
+
+.envato-kit-141-newsletter-inline .elementor-field-textual.elementor-size-md {
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
+
+.envato-kit-141-bottom-0 p {
+	margin-bottom: 0;
+}
+
+.envato-kit-141-bottom-8 .elementor-price-list .elementor-price-list-item .elementor-price-list-header {
+	margin-bottom: .5rem;
+}
+
+.envato-kit-141.elementor-widget-testimonial-carousel.elementor-pagination-type-bullets .swiper-container {
+	padding-bottom: 52px;
+}
+
+.envato-kit-141-display-inline {
+	display: inline-block;
+}
+
+.envato-kit-141 .elementor-slick-slider ul.slick-dots {
+	bottom: -40px;
+}
+
+/** End Block Kit CSS: 144-3-3a7d335f39a8579c20cdf02f8d462582 **/
+
+		</style>
+		</head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-45 wp-custom-logo theme-astra woocommerce-no-js customer-area-active ast-desktop ast-page-builder-template ast-no-sidebar astra-3.0.2 ast-header-custom-item-inside ast-single-post ast-mobile-inherit-site-logo ast-woocommerce-cart-menu ast-inherit-site-logo-transparent ast-full-width-layout elementor-default elementor-kit-13 elementor-page elementor-page-45 astra-addon-3.1.0">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div 
+class="hfeed site" id="page">
+	<a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
+			<div data-elementor-type="header" data-elementor-id="381" class="elementor elementor-381 elementor-location-header" data-elementor-settings="[]">
+					<div class="elementor-section-wrap">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-f37c28a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f37c28a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1a667a3" data-id="1a667a3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-890e9f2 elementor-nav-menu__align-left elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="890e9f2" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-background e--animation-fade">
+				<ul id="menu-1-890e9f2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="https://amcecuador.com/trabaja-con-nosotros/" class="elementor-item menu-link">Trabaja con Nosotros</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-464"><a href="https://amcecuador.com/contactanos/" class="elementor-item menu-link">Contáctanos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1542"><a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzNjUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" class="elementor-item elementor-item-anchor menu-link">Factura Electrónica</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Alternar menú" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menú</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-890e9f2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="https://amcecuador.com/trabaja-con-nosotros/" class="elementor-item menu-link" tabindex="-1">Trabaja con Nosotros</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-464"><a href="https://amcecuador.com/contactanos/" class="elementor-item menu-link" tabindex="-1">Contáctanos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1542"><a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzNjUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Factura Electrónica</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9527bfa" data-id="9527bfa" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="dce-visibility-event elementor-element elementor-element-f562d40 elementor-widget elementor-widget-heading" data-id="f562d40" data-element_type="widget" data-settings="{&quot;enabled_visibility&quot;:&quot;yes&quot;,&quot;dce_visibility_selected&quot;:&quot;yes&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default"><a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzNzkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">Ingresa / Regístrate</a></h3>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-87168cc" data-id="87168cc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="dce-visibility-event elementor-element elementor-element-768680e elementor-widget elementor-widget-image" data-id="768680e" data-element_type="widget" data-settings="{&quot;enabled_visibility&quot;:&quot;yes&quot;,&quot;dce_visibility_selected&quot;:&quot;yes&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img src="https://secure.gravatar.com/avatar/?s=96&amp;d=mm&amp;r=g" title="" alt="" />														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3a46667 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3a46667" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_offset&quot;:44,&quot;sticky_effects_offset&quot;:44,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a396a4e" data-id="a396a4e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1671f07  animated flipInY duration2 eds-on-hover  elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="1671f07" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+													<a href="https://amcecuador.com">
+							<img width="1148" height="1211" src="https://amcecuador.com/wp-content/uploads/2022/07/Logo-AMC-Oficial-01-180x190.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://amcecuador.com/wp-content/uploads/2022/07/Logo-AMC-Oficial-01.png 1148w, https://amcecuador.com/wp-content/uploads/2022/07/Logo-AMC-Oficial-01-284x300.png 284w, https://amcecuador.com/wp-content/uploads/2022/07/Logo-AMC-Oficial-01-971x1024.png 971w, https://amcecuador.com/wp-content/uploads/2022/07/Logo-AMC-Oficial-01-768x810.png 768w, https://amcecuador.com/wp-content/uploads/2022/07/Logo-AMC-Oficial-01-600x633.png 600w, https://amcecuador.com/wp-content/uploads/2022/07/Logo-AMC-Oficial-01-64x68.png 64w, https://amcecuador.com/wp-content/uploads/2022/07/Logo-AMC-Oficial-01-180x190.png 180w" sizes="(max-width: 1148px) 100vw, 1148px" />								</a>
+														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-88d86d6" data-id="88d86d6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-717bedc toggle-icon--cart-solid elementor-menu-cart--empty-indicator-hide elementor-menu-cart--items-indicator-bubble elementor-menu-cart--show-subtotal-yes elementor-menu-cart--cart-type-side-cart elementor-menu-cart--show-remove-button-yes elementor-widget elementor-widget-woocommerce-menu-cart" data-id="717bedc" data-element_type="widget" data-settings="{&quot;cart_type&quot;:&quot;side-cart&quot;,&quot;open_cart&quot;:&quot;click&quot;,&quot;automatically_open_cart&quot;:&quot;no&quot;}" data-widget_type="woocommerce-menu-cart.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-menu-cart__wrapper">
+							<div class="elementor-menu-cart__toggle_wrapper">
+					<div class="elementor-menu-cart__container elementor-lightbox" aria-hidden="true">
+						<div class="elementor-menu-cart__main" aria-hidden="true">
+							<div class="elementor-menu-cart__close-button"></div>
+							<div class="widget_shopping_cart_content">
+															</div>
+						</div>
+					</div>
+							<div class="elementor-menu-cart__toggle elementor-button-wrapper">
+			<a id="elementor-menu-cart__toggle_button" href="#" class="elementor-menu-cart__toggle_button elementor-button elementor-size-sm" aria-expanded="false">
+				<span class="elementor-button-text"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0,00</bdi></span></span>
+				<span class="elementor-button-icon" data-counter="0">
+					<i class="eicon"></i>
+					<span class="elementor-screen-only">Carrito</span>
+				</span>
+			</a>
+		</div>
+						</div>
+					</div> <!-- close elementor-menu-cart__wrapper -->
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d4082c3" data-id="d4082c3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8cdb4df elementor-nav-menu__align-center elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="8cdb4df" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-chevron-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-drop-in">
+				<ul id="menu-1-8cdb4df" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-672"><div  class="dgwt-wcas-search-wrapp dgwt-wcas-is-detail-box dgwt-wcas-no-submit woocommerce dgwt-wcas-style-solaris js-dgwt-wcas-layout-classic dgwt-wcas-layout-classic js-dgwt-wcas-mobile-overlay-disabled">
+		<form class="dgwt-wcas-search-form" role="search" action="https://amcecuador.com/" method="get">
+		<div class="dgwt-wcas-sf-wrapp">
+							<svg class="dgwt-wcas-ico-magnifier" xmlns="http://www.w3.org/2000/svg"
+					 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+					 viewBox="0 0 51.539 51.361" xml:space="preserve">
+		             <path 						   d="M51.539,49.356L37.247,35.065c3.273-3.74,5.272-8.623,5.272-13.983c0-11.742-9.518-21.26-21.26-21.26 S0,9.339,0,21.082s9.518,21.26,21.26,21.26c5.361,0,10.244-1.999,13.983-5.272l14.292,14.292L51.539,49.356z M2.835,21.082 c0-10.176,8.249-18.425,18.425-18.425s18.425,8.249,18.425,18.425S31.436,39.507,21.26,39.507S2.835,31.258,2.835,21.082z"/>
+				</svg>
+							<label class="screen-reader-text"
+			       for="dgwt-wcas-search-input-1">Búsqueda de productos</label>
+
+			<input id="dgwt-wcas-search-input-1"
+			       type="search"
+			       class="dgwt-wcas-search-input"
+			       name="s"
+			       value=""
+				   placeholder="Digita y mira los resultados..."
+			       autocomplete="off"
+				   			/>
+			<div class="dgwt-wcas-preloader"></div>
+
+			<div class="dgwt-wcas-voice-search"></div>
+
+			
+			<input type="hidden" name="post_type" value="product"/>
+			<input type="hidden" name="dgwt_wcas" value="1"/>
+
+			
+					</div>
+	</form>
+</div>
+</li>
+<li class="animated float duration1 eds-on-hover menu-item menu-item-type-custom menu-item-object-custom menu-item-2821"><a href="https://amcecuador.com/inicio" class="elementor-item menu-link">Inicio</a></li>
+<li class="animated float duration1 eds-on-hover menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://amcecuador.com/quienes-somos/" class="elementor-item menu-link">Quiénes Somos</a></li>
+<li class="animated float duration1 eds-on-hover menu-item menu-item-type-custom menu-item-object-custom menu-item-2261"><a href="https://amcecuador.com/productos" class="elementor-item menu-link">Tienda</a></li>
+<li class="animated float duration1 eds-on-hover menu-item menu-item-type-post_type menu-item-object-page menu-item-726"><a href="https://amcecuador.com/tutoriales/" class="elementor-item menu-link">Tutoriales</a></li>
+<li class="animated float duration1 eds-on-hover menu-item menu-item-type-custom menu-item-object-custom menu-item-1736"><a href="https://amcecuador.com/ofertas" class="elementor-item menu-link">Ofertas</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Alternar menú" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menú</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+				<ul id="menu-2-8cdb4df" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-672"><div  class="dgwt-wcas-search-wrapp dgwt-wcas-is-detail-box dgwt-wcas-no-submit woocommerce dgwt-wcas-style-solaris js-dgwt-wcas-layout-classic dgwt-wcas-layout-classic js-dgwt-wcas-mobile-overlay-disabled">
+		<form class="dgwt-wcas-search-form" role="search" action="https://amcecuador.com/" method="get">
+		<div class="dgwt-wcas-sf-wrapp">
+							<svg class="dgwt-wcas-ico-magnifier" xmlns="http://www.w3.org/2000/svg"
+					 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+					 viewBox="0 0 51.539 51.361" xml:space="preserve">
+		             <path 						   d="M51.539,49.356L37.247,35.065c3.273-3.74,5.272-8.623,5.272-13.983c0-11.742-9.518-21.26-21.26-21.26 S0,9.339,0,21.082s9.518,21.26,21.26,21.26c5.361,0,10.244-1.999,13.983-5.272l14.292,14.292L51.539,49.356z M2.835,21.082 c0-10.176,8.249-18.425,18.425-18.425s18.425,8.249,18.425,18.425S31.436,39.507,21.26,39.507S2.835,31.258,2.835,21.082z"/>
+				</svg>
+							<label class="screen-reader-text"
+			       for="dgwt-wcas-search-input-2">Búsqueda de productos</label>
+
+			<input id="dgwt-wcas-search-input-2"
+			       type="search"
+			       class="dgwt-wcas-search-input"
+			       name="s"
+			       value=""
+				   placeholder="Digita y mira los resultados..."
+			       autocomplete="off"
+				   			/>
+			<div class="dgwt-wcas-preloader"></div>
+
+			<div class="dgwt-wcas-voice-search"></div>
+
+			
+			<input type="hidden" name="post_type" value="product"/>
+			<input type="hidden" name="dgwt_wcas" value="1"/>
+
+			
+					</div>
+	</form>
+</div>
+</li>
+<li class="animated float duration1 eds-on-hover menu-item menu-item-type-custom menu-item-object-custom menu-item-2821"><a href="https://amcecuador.com/inicio" class="elementor-item menu-link" tabindex="-1">Inicio</a></li>
+<li class="animated float duration1 eds-on-hover menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://amcecuador.com/quienes-somos/" class="elementor-item menu-link" tabindex="-1">Quiénes Somos</a></li>
+<li class="animated float duration1 eds-on-hover menu-item menu-item-type-custom menu-item-object-custom menu-item-2261"><a href="https://amcecuador.com/productos" class="elementor-item menu-link" tabindex="-1">Tienda</a></li>
+<li class="animated float duration1 eds-on-hover menu-item menu-item-type-post_type menu-item-object-page menu-item-726"><a href="https://amcecuador.com/tutoriales/" class="elementor-item menu-link" tabindex="-1">Tutoriales</a></li>
+<li class="animated float duration1 eds-on-hover menu-item menu-item-type-custom menu-item-object-custom menu-item-1736"><a href="https://amcecuador.com/ofertas" class="elementor-item menu-link" tabindex="-1">Ofertas</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+							</div>
+				</div>
+			<div id="content" class="site-content">
+		<div class="ast-container">
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+				<article
+class="post-45 page type-page status-publish ast-article-single" id="post-45" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+		<header class="entry-header ast-header-without-markup">
+		
+			</header><!-- .entry-header -->
+
+	<div class="entry-content clear" 
+		itemprop="text"	>
+
+		
+				<div data-elementor-type="wp-page" data-elementor-id="45" class="elementor elementor-45" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-5eec9ac1 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="5eec9ac1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:1136,&quot;url&quot;:&quot;https:\/\/amcecuador.com\/wp-content\/uploads\/2021\/01\/Floricultura-Embalaje-3688-copia-scaled-e1611266993840.jpg&quot;},{&quot;id&quot;:1141,&quot;url&quot;:&quot;https:\/\/amcecuador.com\/wp-content\/uploads\/2021\/01\/Guante-NITRITEX-Plus-Moladora-MASTER-copia-scaled.jpg&quot;},{&quot;id&quot;:1137,&quot;url&quot;:&quot;https:\/\/amcecuador.com\/wp-content\/uploads\/2021\/01\/Floricultura-Invernaderos-3401-copia-scaled.jpg&quot;},{&quot;id&quot;:1142,&quot;url&quot;:&quot;https:\/\/amcecuador.com\/wp-content\/uploads\/2021\/01\/Guantes-Domesticos-Banano-1061-copia-scaled-e1611266962535.jpg&quot;},{&quot;id&quot;:1176,&quot;url&quot;:&quot;https:\/\/amcecuador.com\/wp-content\/uploads\/2021\/01\/Floricultura-Clasificacion-3224-copia-scaled.jpg&quot;},{&quot;id&quot;:1178,&quot;url&quot;:&quot;https:\/\/amcecuador.com\/wp-content\/uploads\/2021\/01\/Especialidad-floricola-copia1-scaled.jpg&quot;},{&quot;id&quot;:1173,&quot;url&quot;:&quot;https:\/\/amcecuador.com\/wp-content\/uploads\/2021\/01\/Vivero-Fumigacion-0687-copia-scaled-e1611268159942.jpg&quot;},{&quot;id&quot;:1259,&quot;url&quot;:&quot;https:\/\/amcecuador.com\/wp-content\/uploads\/2021\/01\/Botas-cuero-Armor.jpg&quot;},{&quot;id&quot;:1134,&quot;url&quot;:&quot;https:\/\/amcecuador.com\/wp-content\/uploads\/2021\/01\/FELCO-1654-copia-e1611268371847.jpg&quot;},{&quot;id&quot;:1132,&quot;url&quot;:&quot;https:\/\/amcecuador.com\/wp-content\/uploads\/2021\/01\/Cinta-Impresa-3569-CMYK-copia-scaled.jpg&quot;}],&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-52a7d035" data-id="52a7d035" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6984f1af elementor-widget elementor-widget-heading" data-id="6984f1af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">INSUMOS ESPECIALIZADOS PARA EMPRESAS y PERSONAS</h1>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-42d4f8ad elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="42d4f8ad" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6888b08f" data-id="6888b08f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-14a3ba2f elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="14a3ba2f" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 20 16&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;3.3&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cg transform=&#039;translate(-12.000000, 0)&#039;%3E%3Cpath d=&#039;M28,0L10,18&#039;/%3E%3Cpath d=&#039;M18,0L0,18&#039;/%3E%3Cpath d=&#039;M48,0L30,18&#039;/%3E%3Cpath d=&#039;M38,0L20,18&#039;/%3E%3C/g%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-204bb0f elementor-widget elementor-widget-heading" data-id="204bb0f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Contribuimos al desarrollo de las empresas del Ecuador, proporcionándoles el portafolio más completo de Equipos para Industria y Agroindustria</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-21f65af5 elementor-align-left elementor-widget__width-auto elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="21f65af5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzNzkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-arrow-right"></i>			</span>
+						<span class="elementor-button-text">INGRESA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-659aceb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="659aceb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-99d3f8d" data-id="99d3f8d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dce1186 elementor-invisible elementor-widget elementor-widget-pp-info-box-carousel" data-id="dce1186" data-element_type="widget" data-settings="{&quot;equal_height_boxes&quot;:&quot;yes&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="pp-info-box-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="pp-info-box-carousel-wrap swiper-container-wrap swiper-container-wrap-dots-outside">
+			<div class="pp-info-box-container pp-info-box-carousel pp-swiper-slider swiper-container" data-slider-settings="{&quot;direction&quot;:&quot;horizontal&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:600,&quot;slidesPerView&quot;:3,&quot;spaceBetween&quot;:10,&quot;centeredSlides&quot;:false,&quot;grabCursor&quot;:false,&quot;autoHeight&quot;:true,&quot;watchSlidesVisibility&quot;:true,&quot;watchSlidesProgress&quot;:true,&quot;loop&quot;:true,&quot;autoplay&quot;:{&quot;delay&quot;:3000,&quot;disableOnInteraction&quot;:false},&quot;pagination&quot;:{&quot;el&quot;:&quot;.swiper-pagination-dce1186&quot;,&quot;type&quot;:&quot;bullets&quot;,&quot;clickable&quot;:true},&quot;navigation&quot;:{&quot;nextEl&quot;:&quot;.swiper-button-next-dce1186&quot;,&quot;prevEl&quot;:&quot;.swiper-button-prev-dce1186&quot;},&quot;breakpoints&quot;:{&quot;1025&quot;:{&quot;slidesPerView&quot;:3,&quot;spaceBetween&quot;:10},&quot;768&quot;:{&quot;slidesPerView&quot;:2,&quot;spaceBetween&quot;:10},&quot;320&quot;:{&quot;slidesPerView&quot;:1,&quot;spaceBetween&quot;:10}}}">
+				<div class="swiper-wrapper">											<div class="swiper-slide">
+														<div class="pp-info-box">
+																	<div class="pp-info-box-icon-wrap">
+																							<span class="pp-info-box-icon pp-icon">
+																<img decoding="async" src="https://amcecuador.com/wp-content/uploads/2021/07/IMG_1246-scaled.jpg" alt="IMG_1246">
+														</span>
+																						</div>
+																<div class="pp-info-box-content">
+									<div class="pp-info-box-title-wrap">
+																					<div class="pp-info-box-title-container">
+												<h4 class="pp-info-box-title">
+													Floricultura												</h4>
+											</div>
+																				</div>
+
+																			<div class="pp-info-box-divider-wrap">
+											<div class="pp-info-box-divider"></div>
+										</div>
+									
+																			<div class="pp-info-box-description">
+											<p>Mallas, láminas, tachos.</p>										</div>
+																												<div class="pp-info-box-footer">
+											<a class="pp-info-box-button elementor-button elementor-size-md" href="https://amcecuador.com/linea-floricola" target="_blank">
+																																					<span class="pp-button-text">
+														Ver más													</span>
+																											<span class="pp-button-icon pp-icon">
+				<i aria-hidden="true" class="fas fa-arrow-right"></i>			</span>
+														</a>
+										</div>
+																	</div>
+							</div>
+													</div>
+												<div class="swiper-slide">
+														<div class="pp-info-box">
+																	<div class="pp-info-box-icon-wrap">
+																							<span class="pp-info-box-icon pp-icon">
+																<img decoding="async" src="https://amcecuador.com/wp-content/uploads/2021/04/Minera-1.png" alt="Minera">
+														</span>
+																						</div>
+																<div class="pp-info-box-content">
+									<div class="pp-info-box-title-wrap">
+																					<div class="pp-info-box-title-container">
+												<h4 class="pp-info-box-title">
+													Minería												</h4>
+											</div>
+																				</div>
+
+																			<div class="pp-info-box-divider-wrap">
+											<div class="pp-info-box-divider"></div>
+										</div>
+									
+																			<div class="pp-info-box-description">
+											Cascos, máscaras, orejeras.										</div>
+																												<div class="pp-info-box-footer">
+											<a class="pp-info-box-button elementor-button elementor-size-md" href="https://amcecuador.com/linea-minera" target="_blank">
+																																					<span class="pp-button-text">
+														Ver más													</span>
+																											<span class="pp-button-icon pp-icon">
+				<i aria-hidden="true" class="fas fa-arrow-right"></i>			</span>
+														</a>
+										</div>
+																	</div>
+							</div>
+													</div>
+												<div class="swiper-slide">
+														<div class="pp-info-box">
+																	<div class="pp-info-box-icon-wrap">
+																							<span class="pp-info-box-icon pp-icon">
+																<img decoding="async" src="https://amcecuador.com/wp-content/uploads/2022/06/Bananera1.png" alt="Bananera1">
+														</span>
+																						</div>
+																<div class="pp-info-box-content">
+									<div class="pp-info-box-title-wrap">
+																					<div class="pp-info-box-title-container">
+												<h4 class="pp-info-box-title">
+													Banano												</h4>
+											</div>
+																				</div>
+
+																			<div class="pp-info-box-divider-wrap">
+											<div class="pp-info-box-divider"></div>
+										</div>
+									
+																			<div class="pp-info-box-description">
+											Delantales, zuncho, cascos.										</div>
+																												<div class="pp-info-box-footer">
+											<a class="pp-info-box-button elementor-button elementor-size-md" href="https://amcecuador.com/linea-bananera" target="_blank">
+																																					<span class="pp-button-text">
+														Ver más													</span>
+																											<span class="pp-button-icon pp-icon">
+				<i aria-hidden="true" class="fas fa-arrow-right"></i>			</span>
+														</a>
+										</div>
+																	</div>
+							</div>
+													</div>
+												<div class="swiper-slide">
+														<div class="pp-info-box">
+																	<div class="pp-info-box-icon-wrap">
+																							<span class="pp-info-box-icon pp-icon">
+																<img decoding="async" src="https://amcecuador.com/wp-content/uploads/2021/04/Camaronera-1.png" alt="Camaronera">
+														</span>
+																						</div>
+																<div class="pp-info-box-content">
+									<div class="pp-info-box-title-wrap">
+																					<div class="pp-info-box-title-container">
+												<h4 class="pp-info-box-title">
+													Camarón												</h4>
+											</div>
+																				</div>
+
+																			<div class="pp-info-box-divider-wrap">
+											<div class="pp-info-box-divider"></div>
+										</div>
+									
+																			<div class="pp-info-box-description">
+											Guantes, delantales, mangas.										</div>
+																												<div class="pp-info-box-footer">
+											<a class="pp-info-box-button elementor-button elementor-size-md" href="https://amcecuador.com/linea-camaronera" target="_blank">
+																																					<span class="pp-button-text">
+														Ver más													</span>
+																											<span class="pp-button-icon pp-icon">
+				<i aria-hidden="true" class="fas fa-arrow-right"></i>			</span>
+														</a>
+										</div>
+																	</div>
+							</div>
+													</div>
+												<div class="swiper-slide">
+														<div class="pp-info-box">
+																	<div class="pp-info-box-icon-wrap">
+																							<span class="pp-info-box-icon pp-icon">
+																<img decoding="async" src="https://amcecuador.com/wp-content/uploads/2021/04/Petrolera-1.png" alt="Petrolera">
+														</span>
+																						</div>
+																<div class="pp-info-box-content">
+									<div class="pp-info-box-title-wrap">
+																					<div class="pp-info-box-title-container">
+												<h4 class="pp-info-box-title">
+													Petróleos												</h4>
+											</div>
+																				</div>
+
+																			<div class="pp-info-box-divider-wrap">
+											<div class="pp-info-box-divider"></div>
+										</div>
+									
+																			<div class="pp-info-box-description">
+											Cascos, chalecos, lentes.										</div>
+																												<div class="pp-info-box-footer">
+											<a class="pp-info-box-button elementor-button elementor-size-md" href="https://amcecuador.com/linea-petrolera" target="_blank">
+																																					<span class="pp-button-text">
+														Ver más													</span>
+																											<span class="pp-button-icon pp-icon">
+				<i aria-hidden="true" class="fas fa-arrow-right"></i>			</span>
+														</a>
+										</div>
+																	</div>
+							</div>
+													</div>
+												<div class="swiper-slide">
+														<div class="pp-info-box">
+																	<div class="pp-info-box-icon-wrap">
+																							<span class="pp-info-box-icon pp-icon">
+																<img decoding="async" src="https://amcecuador.com/wp-content/uploads/2021/04/Bebidas-y-Aliment.png?v=1617838684" alt="Bebidas y Aliment">
+														</span>
+																						</div>
+																<div class="pp-info-box-content">
+									<div class="pp-info-box-title-wrap">
+																					<div class="pp-info-box-title-container">
+												<h4 class="pp-info-box-title">
+													Bebidas y Alimentos												</h4>
+											</div>
+																				</div>
+
+																			<div class="pp-info-box-divider-wrap">
+											<div class="pp-info-box-divider"></div>
+										</div>
+									
+																			<div class="pp-info-box-description">
+											Cofias, botas, guantes.										</div>
+																												<div class="pp-info-box-footer">
+											<a class="pp-info-box-button elementor-button elementor-size-md" href="https://amcecuador.com/bebidas-y-alimentos" target="_blank">
+																																					<span class="pp-button-text">
+														Ver más													</span>
+																											<span class="pp-button-icon pp-icon">
+				<i aria-hidden="true" class="fas fa-arrow-right"></i>			</span>
+														</a>
+										</div>
+																	</div>
+							</div>
+													</div>
+												<div class="swiper-slide">
+														<div class="pp-info-box">
+																	<div class="pp-info-box-icon-wrap">
+																							<span class="pp-info-box-icon pp-icon">
+																<img decoding="async" src="https://amcecuador.com/wp-content/uploads/2021/04/L-Construccion.png" alt="L Construcción">
+														</span>
+																						</div>
+																<div class="pp-info-box-content">
+									<div class="pp-info-box-title-wrap">
+																					<div class="pp-info-box-title-container">
+												<h4 class="pp-info-box-title">
+													Construcción												</h4>
+											</div>
+																				</div>
+
+																			<div class="pp-info-box-divider-wrap">
+											<div class="pp-info-box-divider"></div>
+										</div>
+									
+																			<div class="pp-info-box-description">
+											Telas, Geomallas, botas.										</div>
+																												<div class="pp-info-box-footer">
+											<a class="pp-info-box-button elementor-button elementor-size-md" href="https://amcecuador.com/linea-construccion" target="_blank">
+																																					<span class="pp-button-text">
+														Ver más													</span>
+																											<span class="pp-button-icon pp-icon">
+				<i aria-hidden="true" class="fas fa-arrow-right"></i>			</span>
+														</a>
+										</div>
+																	</div>
+							</div>
+													</div>
+												<div class="swiper-slide">
+														<div class="pp-info-box">
+																	<div class="pp-info-box-icon-wrap">
+																							<span class="pp-info-box-icon pp-icon">
+																<img decoding="async" src="https://amcecuador.com/wp-content/uploads/2021/04/Manufactura.png?v=1617838693" alt="Manufactura">
+														</span>
+																						</div>
+																<div class="pp-info-box-content">
+									<div class="pp-info-box-title-wrap">
+																					<div class="pp-info-box-title-container">
+												<h4 class="pp-info-box-title">
+													Manufactura												</h4>
+											</div>
+																				</div>
+
+																			<div class="pp-info-box-divider-wrap">
+											<div class="pp-info-box-divider"></div>
+										</div>
+									
+																			<div class="pp-info-box-description">
+											Guantes, chalecos, gafas.										</div>
+																												<div class="pp-info-box-footer">
+											<a class="pp-info-box-button elementor-button elementor-size-md" href="https://amcecuador.com/linea-manufactura" target="_blank">
+																																					<span class="pp-button-text">
+														Ver más													</span>
+																											<span class="pp-button-icon pp-icon">
+				<i aria-hidden="true" class="fas fa-arrow-right"></i>			</span>
+														</a>
+										</div>
+																	</div>
+							</div>
+													</div>
+												<div class="swiper-slide">
+														<div class="pp-info-box">
+																	<div class="pp-info-box-icon-wrap">
+																							<span class="pp-info-box-icon pp-icon">
+																<img decoding="async" src="https://amcecuador.com/wp-content/uploads/2021/04/Pesquera-1.png" alt="Pesquera">
+														</span>
+																						</div>
+																<div class="pp-info-box-content">
+									<div class="pp-info-box-title-wrap">
+																					<div class="pp-info-box-title-container">
+												<h4 class="pp-info-box-title">
+													Pesquera												</h4>
+											</div>
+																				</div>
+
+																			<div class="pp-info-box-divider-wrap">
+											<div class="pp-info-box-divider"></div>
+										</div>
+									
+																			<div class="pp-info-box-description">
+											Botas, trajes, guantes.										</div>
+																												<div class="pp-info-box-footer">
+											<a class="pp-info-box-button elementor-button elementor-size-md" href="https://amcecuador.com/industria-pesquera" target="_blank">
+																																					<span class="pp-button-text">
+														Ver más													</span>
+																											<span class="pp-button-icon pp-icon">
+				<i aria-hidden="true" class="fas fa-arrow-right"></i>			</span>
+														</a>
+										</div>
+																	</div>
+							</div>
+													</div>
+										</div>			</div>
+						<div class="swiper-pagination swiper-pagination-dce1186"></div>
+						<div class="pp-slider-arrow elementor-swiper-button-prev swiper-button-prev-dce1186" role="button" tabindex="0">
+					<i aria-hidden="true" class="fas fa-angle-left"></i>				</div>
+				<div class="pp-slider-arrow elementor-swiper-button-next swiper-button-next-dce1186" role="button" tabindex="0">
+					<i aria-hidden="true" class="fas fa-angle-right"></i>				</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-238b3d0 elementor-widget elementor-widget-spacer" data-id="238b3d0" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5d9d618 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5d9d618" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-45cdc1a" data-id="45cdc1a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3400d55 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="3400d55" data-element_type="widget" data-settings="{&quot;highlighted_text&quot;:&quot;Grande Tienda Online&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;marker&quot;:&quot;circle&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-headline">
+					<span class="elementor-headline-plain-text elementor-headline-text-wrapper">La más</span>
+				<span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+					<span class="elementor-headline-dynamic-text elementor-headline-text-active">Grande Tienda Online</span>
+				</span>
+					<span class="elementor-headline-plain-text elementor-headline-text-wrapper"> de Equipos para Industria y Agroindustria</span>
+					</h3>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-22aab20 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="22aab20" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 20 16&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;3.3&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cg transform=&#039;translate(-12.000000, 0)&#039;%3E%3Cpath d=&#039;M28,0L10,18&#039;/%3E%3Cpath d=&#039;M18,0L0,18&#039;/%3E%3Cpath d=&#039;M48,0L30,18&#039;/%3E%3Cpath d=&#039;M38,0L20,18&#039;/%3E%3C/g%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-aef0d43 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aef0d43" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1330b20" data-id="1330b20" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f225353 elementor-widget elementor-widget-text-editor" data-id="f225353" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Bienvenidos a la <strong><u>más completa</u></strong> tienda de insumos industriales y equipos de protección personal.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-814f255" data-id="814f255" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-647ecfb elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="647ecfb" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;start&quot;:400,&quot;autoplay&quot;:&quot;yes&quot;,&quot;play_on_mobile&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://amcecuador.com/wp-content/uploads/2021/01/Mision-WebSite.mp4#t=400" autoplay="" loop="" controls="" muted="muted" playsinline="" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3b4c7b2" data-id="3b4c7b2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c8baa83 elementor-widget elementor-widget-text-editor" data-id="c8baa83" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Desde 1989 <span style="text-decoration: underline;"><strong>somos fabricantes e importadores</strong></span> directos, lo que garantiza un producto de calidad.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-47a8f1b elementor-align-center animated-fast elementor-invisible elementor-widget elementor-widget-button" data-id="47a8f1b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;tada&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://amcecuador.com/productos/" class="elementor-button-link elementor-button elementor-size-xl elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-shopping-bag"></i>			</span>
+						<span class="elementor-button-text">Ir a la Tienda</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4ae39f6e elementor-section-content-middle elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="4ae39f6e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;triangle&quot;}">
+							<div class="elementor-background-overlay"></div>
+						<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M500,98.9L0,6.1V0h1000v6.1L500,98.9z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7993adbf" data-id="7993adbf" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-da4cd7d elementor-widget elementor-widget-heading" data-id="da4cd7d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nuestros Productos</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-47cb777 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="47cb777" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 20 16&#039; fill=&#039;none&#039; stroke=&#039;black&#039; stroke-width=&#039;3.3&#039; stroke-linecap=&#039;square&#039; stroke-miterlimit=&#039;10&#039;%3E%3Cg transform=&#039;translate(-12.000000, 0)&#039;%3E%3Cpath d=&#039;M28,0L10,18&#039;/%3E%3Cpath d=&#039;M18,0L0,18&#039;/%3E%3Cpath d=&#039;M48,0L30,18&#039;/%3E%3Cpath d=&#039;M38,0L20,18&#039;/%3E%3C/g%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ca6aaaf elementor-widget elementor-widget-accordion" data-id="ca6aaaf" data-element_type="widget" data-widget_type="accordion.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-accordion" role="tablist">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-2121" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-2121" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-caret-square-down"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="far fa-caret-square-up"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">Empaque y Embalaje</a>
+					</div>
+					<div id="elementor-tab-content-2121" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-2121"><p>		<div data-elementor-type="single-page" data-elementor-id="239" class="elementor elementor-239 post-45 page type-page status-publish ast-article-single" data-elementor-settings="[]">
+					<div class="elementor-section-wrap">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-c8c04bc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c8c04bc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ac810e0" data-id="ac810e0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8c17149 elementor-widget elementor-widget-accordion" data-id="8c17149" data-element_type="widget" data-widget_type="accordion.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-accordion" role="tablist">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1461" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-1461" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-caret-square-down"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="far fa-caret-square-up"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">Dispensadores</a>
+					</div>
+					<div id="elementor-tab-content-1461" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1461"><p>		<div data-elementor-type="single-page" data-elementor-id="281" class="elementor elementor-281 post-45 page type-page status-publish ast-article-single" data-elementor-settings="[]">
+					<div class="elementor-section-wrap">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-ca5a2db elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ca5a2db" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-98efbf4" data-id="98efbf4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c55f495 pp-image-accordion-stack-on-mobile pp-image-accordion-orientation-vertical elementor-widget elementor-widget-pp-image-accordion" data-id="c55f495" data-element_type="widget" data-settings="{&quot;stack_on&quot;:&quot;mobile&quot;,&quot;accordion_action&quot;:&quot;on-hover&quot;,&quot;orientation&quot;:&quot;vertical&quot;,&quot;disable_body_click&quot;:&quot;no&quot;}" data-widget_type="pp-image-accordion.default">
+				<div class="elementor-widget-container">
+						<div class="pp-image-accordion pp-image-accordion-on-hover" id="pp-image-accordion-c55f495">
+														<div class="pp-image-accordion-item elementor-repeater-item-87f281b" style="background-image: url(https://amcecuador.com/wp-content/uploads/2020/12/test-strecth-2.png?v=1688056168);">
+						<div class="pp-image-accordion-overlay pp-media-overlay">
+							<div class="pp-image-accordion-content-wrap">
+								<div class="pp-image-accordion-content">
+																		<h2 class="pp-image-accordion-title">
+										Dispensador grande para stretch									</h2>
+									<div class="pp-image-accordion-description">
+										<p><span style="color: #00ccff"><a style="color: #00ccff" href="https://amcecuador.com/wp-content/uploads/2021/08/1121011-FormatNew-Dispensador-grande-para-Stretch-Film_compressed.pdf" target="_blank" rel="noopener"><strong><img decoding="async" class="emoji" role="img" src="https://s.w.org/images/core/emoji/13.1.0/svg/2b07.svg" alt="

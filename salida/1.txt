@@ -1,0 +1,1847 @@
+<!doctype html>
+
+<html>
+<style type="text/css">
+@import url("css/base.css");
+@import url("css/bootstrap.min.css");
+@import url("css/demo.css");
+@import url("css/font-awesome.css");
+@import url("css/font-awesome.min.css");
+@import url("css/fonts.css");
+@import url("css/idangerous.swiper.css");
+@import url("css/idangerous.swiper.css");
+@import url("css/idangerous.swiper.css");
+@import url("css/idangerous.swiper.css");
+@import url("css/main.css");
+@import url("css/style.css");
+@import url("css/vendor.css");
+@import url("css/font-awesome/css/font-awesome.css");
+@import url("css/font-awesome/css/font-awesome.min.css");
+@import url("css/micons/micons.css");
+@import url("js/main.js.css");
+@import url("js/global.js.css");
+@import url("js/global2.js.css");
+@import url("js/main.js.css");
+@import url("js/plugins.js.css");
+@import url("js/modernizr.js.css");
+@import url("js/map.js.css");
+@import url("js/main.js.css");
+@import url("js/main.js.css");
+@import url("js/jquery-ui.min.js.css");
+@import url("js/jquery-2.1.3.min.js.css");
+@import url("js/jquery.mousewheel.js.css");
+@import url("js/jquery.jscrollpane.min.js.css");
+@import url("js/isotope.pkgd.min.js.css");
+@import url("js/idangerous.swiper.min.js.css");
+</style>
+
+<!-- Head -->
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no, minimal-ui"/>
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/idangerous.swiper.css" rel="stylesheet" type="text/css" />
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href='http://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700%7CDancing+Script%7CMontserrat:400,700%7CMerriweather:400,300italic%7CLato:400,700,900' rel='stylesheet' type='text/css' />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <!--[if IE 9]>
+        <link href="css/ie9.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <link rel="shortcut icon" href="img/favicon.png" />
+  	<title>Prosein | Productos de Seguridad Indutrial</title>
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="canonical" href="https://www.prosein.com.ec/">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="article">
+	<meta name="robots" content="index, follow">
+	<meta property="og:title" content="Prosein | Productos de Seguridad Indutrial">
+	<meta property="og:description" content="PROSEIN Cía. Ltda. es la empresa líder en Ecuador en la comercialización de productos y servicios de seguridad industrial, protección contra incendios e higiene ocupacional. Contamos con 25 años de experiencia en el mercado ecuatoriano y representamos a las más prestigiosas marcas a nivel mundial que ofrecen productos y equipos que cumplen con estándares y normas de seguridad internacional. Nuestro compromiso hacia nuestros clientes es brindar la mejor atención e innovación en productos, servicios y asesoría técnica que ayuden a su empresa a proteger a sus trabajadores, evitar accidentes laborales y cumplir con la normativa de seguridad industrial vigente. ">
+	<meta property="og:description" content="Protección cabeza, vista y rostro, Protección Auditiva, Protección de Manos, Protección Respiratoria, Trajes de Protección y Calzado, Protección en Alturas, Higiene Industrial, Equipo Contra Incendios y Rescate, Compresor de Aire Respirable, Herramientas Hidráulicas, Herramientas Forestales">
+	<meta property="og:url" content="https://www.prosein.com.ec/">
+	<meta property="og:site_name" content="Prosein | Productos de Seguridad Indutrial">
+ 	
+ 	<!-- Smartsupp Live Chat script --
+	<script type="text/javascript">
+	var _smartsupp = _smartsupp || {};
+	_smartsupp.key = '95d8c8575ff1fdf124d549640482d36d2fb1efb2';
+	window.smartsupp||(function(d) {
+		var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+		s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+		c.type='text/javascript';c.charset='utf-8';c.async=true;
+		c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+	})(document);
+	</script-->
+  	</head>
+	<!-- Header -->
+
+	<body class="style-3">
+
+
+   <!-- LOADER --
+
+    <div id="loader-wrapper">
+
+        <div class="bubbles">
+
+            <div class="title">Cargando</div>
+
+            <span></span>
+
+            <span id="bubble2"></span>
+
+            <span id="bubble3"></span>
+
+        </div>
+
+    </div-->
+
+
+
+    <div id="content-block">
+
+
+
+        <div class="content-center fixed-header-margin">
+
+            <!-- HEADER -->
+
+            <div class="header-wrapper style-3">
+
+                <header class="type-1">
+
+                    <div class="header-top">
+
+                        <div class="header-top-entry hidden-xs">
+
+                            <div class="title"><i class="fa fa-whatsapp"></i>Escríbanos al: <a href="tel:593997671203"><b>0997671203</b></a></div>
+
+                        </div>
+
+                        <div class="socials-box">
+
+                            <a href="https://www.facebook.com/prosein.cialtda.3" target="_blank"><i class="fa fa-facebook"></i></a>
+
+                            <a href="https://twitter.com/ProseinCiaLtda" target="_blank"><i class="fa fa-twitter"></i></a>
+
+                            <a href="https://www.youtube.com/channel/UCfraM0x0Rwki57SECVo1ZkA?disable_polymer=true" target="_blank"><i class="fa fa-youtube"></i></a>
+
+                        </div>
+
+                        <div class="menu-button responsive-menu-toggle-class"><i class="fa fa-reorder"></i></div>
+
+                        <div class="clear"></div>
+
+                    </div>
+
+
+
+                    <div class="header-middle">
+
+                        <div class="logo-wrapper">
+
+                            <a id="logo" href="index.php"><img src="img/logo-4.png" alt="" /></a>
+
+                        </div>
+
+
+
+                        <div class="middle-entry">
+
+                            <a class="icon-entry" href="#">
+
+                                <span class="image">
+
+                                    <i class="fa fa-phone"></i>
+
+                                </span>
+
+                                <span class="text">
+
+									<b>Matriz: </b> <br/> (02) 256-8677
+
+                                </span>
+
+                            </a>
+
+                            <a class="icon-entry" href="#">
+
+                                <span class="image">
+
+                                    <i class="fa fa-phone"></i>
+
+                                </span>
+
+                                <span class="text">
+
+									<b>Sucursal Cuenca: </b> <br/> 096 278 1835
+
+                                </span>
+
+                            </a>                            
+
+                            <a class="icon-entry" href="#">
+
+                                <span class="image">
+
+                                    <i class="fa fa-envelope-o"></i>
+
+                                </span>
+
+                                <span class="text">
+
+									<b>Sucursal Guayaquil: </b> <br/> (04) 219-5999 
+
+                                </span>
+
+                            </a>
+
+                        </div>
+
+
+
+
+
+                    </div>
+
+
+
+                    <div class="close-header-layer"></div>
+
+                    <div class="navigation">
+
+                        <div class="navigation-header responsive-menu-toggle-class">
+
+                            <div class="title">Menú</div>
+
+                            <div class="close-menu"></div>
+
+                        </div>
+
+                        <div class="nav-overflow">
+
+                            <div class="navigation-search-content">
+
+                                <div class="toggle-desktop-menu"><i class="fa fa-search"></i><i class="fa fa-close"></i>Buscar</div>
+
+                                <div class="search-box size-1">
+
+                                    <form>
+
+                                        <div class="search-button">
+
+                                            <i class="fa fa-search"></i>
+
+                                            <input type="submit" />
+
+                                        </div>
+
+                                        <div class="search-field">
+
+                                            <input type="text" value="" placeholder="Buscar producto" />
+
+                                        </div>
+
+                                    </form>
+
+                                </div>
+
+                            </div>
+
+                            <nav>
+
+                                <ul>
+
+                                    <li>
+
+                                        <a href="index.php"  class="active dropdown">Inicio</a>
+
+                                    </li>
+
+                                    <li>
+
+                                        <a href="nosotros.php" >Nosotros</a>
+
+                                    </li>
+
+                                    <li>
+
+                                        <a href="infraestructura.php" >Infraestructura</a>
+
+                                    </li>
+                                    
+                                    
+                                  
+                                    <li class="full-width-columns">
+
+                                        <a href="productos.php">Productos</a><i class="fa fa-chevron-down"></i>
+
+                                        <div class="submenu">
+
+                                            <div class="product-column-entry">
+
+                                                <div class="image"><img alt="" src="img/m11.jpg"></div>
+
+                                                	<div class="submenu-list-title"><a href="#">Catalogo 1</a><span class="toggle-list-button"></span></div>
+
+                                                   <div class="description toggle-list-container">
+
+                                                    <ul class="list-type-1">
+
+                                                       <li><a href="p-bio-gafas.php" ><i class="fa fa-angle-right"></i> Gafas</a></li>
+
+                                                       <li><a href="mascarillas.php" ><i class="fa fa-angle-right"></i> Mascarillas </a></li>
+
+                                                       <li><a href="guantes.php" ><i class="fa fa-angle-right"></i> Guantes</a></li>
+														
+														 <li><a href="p-calzado3.php" ><i class="fa fa-angle-right"></i> Trajes Especializados</a></li>
+
+                                                      <li><a href="termometro.php" ><i class="fa fa-angle-right"></i> Instrumentos  </a></li>
+														
+														
+
+
+														
+														
+
+                                                    </ul>
+
+                                                </div>
+
+                                            </div>
+											
+											 <div class="product-column-entry">
+
+                                                <div class="image"><img alt="" src="img/m12.jpg"></div>
+
+                                                	<div class="submenu-list-title"><a href="#">Catalogo 2</a><span class="toggle-list-button"></span></div>
+
+                                                   <div class="description toggle-list-container">
+
+                                                    <ul class="list-type-1">
+
+                                                       <li><a href="p-cabeza-vista-ojos.php" ><i class="fa fa-angle-right"></i> Protección cabeza, vista y rostro</a></li>
+
+                                                       <li><a href="p-auditiva.php" ><i class="fa fa-angle-right"></i> Protección Auditiva</a></li>
+
+                                                       <li><a href="p-manos.php" ><i class="fa fa-angle-right"></i> Protección de Manos</a></li>
+
+                                                    </ul>
+
+                                                </div>
+
+                                            </div>
+
+
+                                            <div class="product-column-entry">
+
+                                                <div class="image"><img alt="" src="img/m2.jpg"></div>
+
+                                                <div class="submenu-list-title"><a href="#">Catalogo 3</a><span class="toggle-list-button"></span></div>
+
+                                                <div class="description toggle-list-container">
+
+                                                    <ul class="list-type-1">
+
+                                                        <li><a href="p-respiratoria.php" ><i class="fa fa-angle-right"></i> Protección Respiratoria</a></li>
+
+                                                        <li><a href="p-calzado.php" ><i class="fa fa-angle-right"></i> Trajes de Protección y Calzado</a></li>
+
+                                                    </ul>
+
+                                                </div>
+
+                                            </div>
+
+                                            <div class="product-column-entry">
+
+                                                <div class="image"><img alt="" src="img/m3.jpg"></div>
+
+                                                <div class="submenu-list-title"><a href="#">Catalogo 4</a><span class="toggle-list-button"></span></div>
+
+                                                <div class="description toggle-list-container">
+
+                                                    <ul class="list-type-1">
+
+                                                        <li><a href="p-alturas.php" ><i class="fa fa-angle-right"></i> Protección en Alturas</a></li>
+
+                                                        <li><a href="h-industrial.php" ><i class="fa fa-angle-right"></i> Higiene Industrial</a></li>
+
+ <li><a href="h-maletas.php" ><i class="fa fa-angle-right"></i> Maletas Profesionales</a></li
+
+                                                    ></ul>
+
+                                                </div>
+
+                                            </div>
+
+                                            <div class="product-column-entry">
+
+                                                <div class="image"><img alt="" src="img/m4.jpg"></div>
+
+                                                <div class="submenu-list-title"><a href="#">Catálogo 5</a><span class="toggle-list-button"></span></div>
+
+                                                <div class="description toggle-list-container">
+
+                                                    <ul class="list-type-1">
+
+                                                        <li><a href="c-incendios.php" ><i class="fa fa-angle-right"></i> Equipo Contra Incendios / Rescate</a></li>
+
+                                                        <li><a href="c-aire.php" ><i class="fa fa-angle-right"></i> Compresor de Aire Respirable</a></li>
+
+                                                    </ul>
+
+                                                </div>
+
+                                            </div>
+
+                                            <div class="product-column-entry">
+
+                                                <div class="image"><img alt="" src="img/m5.jpg"></div>
+
+                                                <div class="submenu-list-title"><a href="#">Catalogo 5</a><span class="toggle-list-button"></span></div>
+
+                                                <div class="description toggle-list-container">
+
+                                                    <ul class="list-type-1">
+
+                                                        <li><a href="h-hidraulicas.php" ><i class="fa fa-angle-right"></i> Herramientas Hidráulicas</a></li>
+
+                                                        <li><a href="h-forestales.php" ><i class="fa fa-angle-right"></i> Herramientas Forestales</a></li>
+
+                                                    </ul>
+
+                                                </div>
+
+                                            </div>
+
+                                            <div class="submenu-links-line">
+
+                                                <div class="submenu-links-line-container">
+
+                                                    <div class="cell-view">
+
+                                                        <div class="red-message"><b>Productos de seguridad industrial</b></div>
+
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </li>
+
+                                    <!--li>
+
+                                        <a href="novedades.php" >Novedades</a>
+
+</li-  empieza nueva de outlet-->
+
+
+
+
+                                    
+                                    
+                                    
+                                    
+
+                                    <li>
+
+                                        <a href="servicios.php" >Servicios</a>
+
+                                    </li>
+
+                                    <li class="simple-list">
+
+                                        <a href="contacto.php" >Contacto</a><i class="fa fa-chevron-down"></i>
+                                        
+                                          
+                                          
+                                            <li class="full-width-columns">
+
+                                        <a href="outlet.php">Prosein Outlet</a><i class="fa fa-chevron-down"></i>
+
+                                        <div class="submenu">
+
+                                            <div class="product-column-entry">
+
+                                                <div class="image"><img alt="" src="img/m1.jpg"></div>
+
+                                                	<div class="submenu-list-title"><a href="#">PROMOCIONES</a><span class="toggle-list-button"></span></div>
+
+                                                   <div class="description toggle-list-container">
+
+                                                    <ul class="list-type-1">
+
+                                                       <li><a href="p-cabeza-vista-ojos.php" ><i class="fa fa-angle-right"></i> Ofertas</a></li>
+
+                                                       <li><a href="p-auditiva.php" ><i class="fa fa-angle-right"></i> Descuentos</a></li>
+
+                                                       <li><a href="p-manos.php" ><i class="fa fa-angle-right"></i> Nuevos Productos</a></li>
+
+                                                    </ul>
+
+                                                </div>
+
+                                            </div>
+
+                                           
+
+                                    </li>
+
+
+                                          
+                                          
+                                          
+                                        
+
+                                        <div class="submenu">
+
+                                            <ul class="simple-menu-list-column">
+
+                                                <li><a href="contacto.php" ><i class="fa fa-angle-right"></i>Matriz Quito</a></li>
+
+                                                <li><a href="contacto2.php" ><i class="fa fa-angle-right"></i>Sucursal Cuenca</a></li>
+
+                                                <li><a href="contacto3.php" ><i class="fa fa-angle-right"></i>Sucursal Guayaquil</a></li>
+
+                                            </ul>
+
+                                        </div>
+
+                                    </li>
+
+                                </ul>
+
+
+
+                                <div class="clear"></div>
+
+
+
+                                <a class="fixed-header-visible additional-header-logo"><img src="img/logo-3.png" alt=""/></a>
+
+                            </nav>
+
+                            <div class="navigation-footer responsive-menu-toggle-class">
+
+                                <div class="socials-box">
+
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+
+                                    <a href="#"><i class="fa fa-youtube"></i></a>
+
+                                    <div class="clear"></div>
+
+                                </div>
+
+                                <div class="navigation-copyright">Created by <a href="https://www.marvision.com.ec" target="_blank">Marvisión</a>. All rights reserved</div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </header>
+
+                <div class="clear"></div>
+
+            </div>
+
+            <div class="content-push">
+			<!-- Contenidos -->
+
+<div class="row">
+
+                    <div class="col-md-3 sidebar-column">
+
+                        <div class="sidebar-navigation">
+
+                            <div class="title">Categoría de Productos<i class="fa fa-angle-down"></i></div>
+
+                            <div class="list">
+
+                               <a class="entry" href="p-bio.php"><span><i class="fa fa-eye"></i>Equipos de Proteccion Personal</span></a>
+								
+								<a class="entry" href="p-cabeza-vista-ojos.php"><span><i class="fa fa-eye"></i>Protección cabeza, vista y rostro</span></a>
+
+                                
+
+                                <a class="entry" href="p-auditiva.php"><span><i class="fa fa-lock"></i>Protección Auditiva</span></a>
+
+                                
+
+                                <a class="entry" href="p-manos.php"><span><i class="fa fa-hand-o-right"></i>Protección de Manos</span></a>
+
+                                
+
+                                <a class="entry" href="p-respiratoria.php"><span><i class="fa fa-user-plus"></i>Protección Respiratoria</span></a>
+
+                                
+
+                                <a class="entry" href="p-calzado.php"><span><i class="fa fa-street-view"></i>Trajes de Protección y Calzado</span></a>
+
+                                
+
+                                <a class="entry" href="p-alturas.php"><span><i class="fa fa-building"></i>Protección en Altura</span></a>
+
+                                
+
+                                <a class="entry" href="h-industrial.php"><span><i class="fa fa-cloud"></i>Higiene Industrial</span></a>
+
+                               <a class="entry" href="h-maletas.php"><span><i class="fa fa-cloud"></i>Maletas Profesionales</span></a>
+                     
+                                
+
+                                <a class="entry" href="c-incendios.php"><span><i class="fa fa-fire"></i>Equipo Contra Incendios / Rescate</span></a>
+
+                                
+
+                                <a class="entry" href="c-aire.php"><span><i class="fa fa-filter"></i>Compresor de Aire Respirable</span></a>
+
+                                
+
+                                <a class="entry" href="h-hidraulicas.php"><span><i class="fa fa-puzzle-piece"></i>Herramientas Hidráulicas</span></a>
+
+                                
+
+                                <a class="entry" href="h-forestales.php"><span><i class="fa fa-tree"></i>Herramientas Forestales</span></a>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-9">
+
+
+
+                        <div class="information-blocks">
+
+                            <div class="mozaic-banners-wrapper type-2">
+
+                                <div class="row">
+
+                                    <div class="banner-column col-md-12">
+
+                                        
+
+                                        <div class="mozaic-swiper">
+
+                                            <div class="swiper-container" data-autoplay="2000" data-loop="1" data-speed="1000" data-center="0" data-slides-per-view="1">
+
+                                                <div class="swiper-wrapper">
+
+                                                    <div class="swiper-slide"> 
+
+                                                        <div class="mozaic-banner-entry type-1" style="background-image: url(img/slider/7.jpg);">
+
+                                                            <div class="mozaic-banner-content">
+
+                                                                <h3 class="subtitle"><br></h3>
+
+                                                                <h2 class="title"><br></h2>
+
+                                                                <div class="description"><br></div>
+
+                                                            </div>
+
+                                                        </div>
+													</div>
+														
+													<div class="swiper-slide"> 
+														   <div class="mozaic-banner-entry type-1" style="background-image: url(img/slider/6.jpg);">
+
+                                                            <div class="mozaic-banner-content">
+
+                                                                <h3 class="subtitle"><br></h3>
+
+                                                                <h2 class="title"><br></h2>
+
+                                                                <div class="description"><br></div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                    </div>
+                                                    
+<!-- inicio phenton-->
+<div class="swiper-slide"> 
+														  
+ <!--iniciourl-->
+  
+ <!--finurl-->                                                          
+                                                           <div class="mozaic-banner-entry type-1" style="background-image: url(img/slider/1.jpg);" href="h-hidraulicas11.php">
+
+                                                            <div class="mozaic-banner-content">
+
+                                                                <h3 class="subtitle"><br></h3>
+
+                                                                <h2 class="title"><br></h2>
+
+                                                                <div class="description"><br></div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                    </div>
+
+<!--finphenton-->
+
+                                                    <div class="swiper-slide"> 
+
+                                                        <div class="mozaic-banner-entry type-1" style="background-image: url(img/slider/2.jpg);">
+
+                                                            <div class="mozaic-banner-content">
+
+                                                                <h3 class="subtitle"><br></h3>
+
+                                                                <h2 class="title"><br></h2>
+
+                                                                <div class="description"><br></div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                    </div>
+
+
+ <div class="swiper-slide"> 
+
+                                                        <div class="mozaic-banner-entry type-1" style="background-image: url(img/slider/4.jpg);">
+
+                                                            <div class="mozaic-banner-content">
+
+                                                                <h3 class="subtitle"><br></h3>
+
+                                                                <h2 class="title"><br></h2>
+
+                                                                <div class="description"><br></div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                    </div>
+
+ <div class="swiper-slide"> 
+
+                                                        <div class="mozaic-banner-entry type-1" style="background-image: url(img/slider/5.jpg);">
+
+                                                            <div class="mozaic-banner-content">
+
+                                                                <h3 class="subtitle"><br></h3>
+
+                                                                <h2 class="title"><br></h2>
+
+                                                                <div class="description"><br></div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                    </div>
+
+
+
+
+
+                                                    <div class="swiper-slide"> 
+
+                                                        <div class="mozaic-banner-entry type-1" style="background-image: url(img/slider/3.jpg);">
+
+                                                            <div class="mozaic-banner-content">
+
+                                                                <h3 class="subtitle"><br></h3>
+
+                                                                <h2 class="title"><br></h2>
+
+                                                                <div class="description"><br></div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                </div>
+                                                
+ 
+
+                                                <div class="pagination"></div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <hr>
+
+                <div class="row">
+                
+ <!--inicio nuevo transparente-->
+ 
+  <div class="custom-col-1">
+
+                            <a class="promo-banner-box" style="background-image: url(img/b1h.jpg); background-color: #1c984f;" href="h-hidraulicas11.php">
+
+                                <span class="promo-text">
+
+                                    <span class="title">Novedades</span>
+
+                                    <span class="description">Equipamiento Especial Holmatro</span>
+
+                                    <span class="detail-link">Ver productos</span>
+
+                                </span>
+
+                            </a>
+
+                            <div class="clear"></div>
+
+                        </div>
+
+<!--fin nuevo boton transparente-->
+
+
+<!--inicio nuevo transparente bauer-->
+ 
+  <div class="custom-col-1">
+
+                            <a class="promo-banner-box" style="background-image: url(img/b1b.jpg); background-color: #1c984f;" href="c-aire6.php">
+
+                                <span class="promo-text">
+
+                                    <span class="title">Nuevo</span>
+
+                                    <span class="description">BAUER B-VIRUS FREE</span>
+
+                                    <span class="detail-link">Ver productos</span>
+
+                                </span>
+
+                            </a>
+
+                            <div class="clear"></div>
+
+                        </div>
+
+<!--fin nuevo boton transparente bauer-->
+
+
+                        <div class="custom-col-1">
+
+                            <a class="promo-banner-box" style="background-image: url(img/b1.jpg); background-color: #0f6dba;" href="p-cabeza-vista-ojos.php">
+
+                                <span class="promo-text">
+
+                                    <span class="title">Protección</span>
+
+                                    <span class="description">Cabeza, Vista, Ojos</span>
+
+                                    <span class="detail-link">Ver productos</span>
+
+                                </span>
+
+                            </a>
+
+                            <div class="clear"></div>
+
+                        </div>
+
+                        <div class="custom-col-1">
+
+                            <a class="promo-banner-box" style="background-image: url(img/b2.jpg); background-color: #0f6dba;" href="p-respiratoria.php">
+
+                                <span class="promo-text">
+
+                                    <span class="title">Protección</span>
+
+                                    <span class="description">Respiratoria</span>
+
+                                    <span class="detail-link">Ver Productos</span>
+
+                                </span>
+
+                            </a>
+
+                            <div class="clear"></div>
+
+                        </div>
+
+                        <div class="custom-col-1">
+
+                            <a class="promo-banner-box" style="background-image: url(img/b3.jpg); background-color: #1c984f;" href="p-calzado.php">
+
+                                <span class="promo-text">
+
+                                    <span class="title">Trajes de Protección </span>
+
+                                    <span class="description">y calzado</span>
+
+                                    <span class="detail-link">Ver Producto</span>
+
+                                </span>
+
+                            </a>
+
+                            <div class="clear"></div>
+
+                        </div>
+
+                        <div class="custom-col-2">
+
+                            <a class="promo-banner-box" style="background-image: url(img/b4.jpg); background-color: #0f6dba;" href="p-alturas.php">
+
+                                <span class="promo-text">
+
+                                    <span class="title">Protección</span>
+
+                                    <span class="description">en altura</span>
+
+                                    <span class="detail-link">Ver productos</span>   
+
+                                </span>
+
+                            </a>
+
+                            <div class="clear"></div>
+
+                        </div>
+
+				</div>
+
+               <div class="information-blocks">
+
+                    <div class="tabs-container style-1">
+
+                        <div class="swiper-tabs tabs-switch">
+
+                            <div class="title">Áreas</div>
+
+                            <div class="list">
+
+                                <a class="tab-switcher active">Bomberos</a>
+
+                                <a class="tab-switcher">Petrolera - Petroquímica</a>
+
+                                <a class="tab-switcher">Construcción</a>
+
+                                <a class="tab-switcher">Combate de Incendios</a>
+
+                                <a class="tab-switcher">Rescate</a>
+
+                                <a class="tab-switcher">Seguridad Vial</a>
+
+                                <div class="clear"></div>
+
+                            </div>
+
+                        </div>
+
+                        <div>
+
+                            <div class="tabs-entry">
+
+                                <div class="article-container style-1">
+
+                                    <div class="row">
+
+                                        <div class="col-md-6 information-entry">
+
+                                            <h4>EQUIPAMIENTO PARA BOMBEROS</h4>
+
+											<p> Disponemos de una amplia gama de equipamiento para bomberos. La gama de productos incluye equipamiento de protección personal, tecnico, especial, de extricación enre otros.</p>
+
+                                        </div>
+
+                                        <div class="col-md-6 information-entry">
+
+                                        <img src="img/tabs/1.jpg" width="100%" alt=""/> </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <div class="tabs-entry">
+
+                                <div class="article-container style-1">
+
+                                    <div class="row">
+
+                                        <div class="col-md-6 information-entry">
+
+                                            <h4>Petrolera - Petroquímica</h4>
+
+											<p>La industria petrolera incluye procesos globales de exploración, extracción, refino, transporte y mercadotecnia de productos del petróleo. Los productos de mayor volumen en la industria son combustibles y gasolina.</p>
+
+                                        </div>
+
+                                        <div class="col-md-6 information-entry">
+
+                                        <img src="img/tabs/2.jpg" width="100%" alt=""/> </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <div class="tabs-entry">
+
+                                <div class="article-container style-1">
+
+                                    <div class="row">
+
+                                        <div class="col-md-6 information-entry">
+
+                                            <h4>Construcción</h4>
+
+                                            <p>Ofrecemos proteccion completa para el personal que labora en el area de la construcción. </p>
+
+                                        </div>
+
+                                        <div class="col-md-6 information-entry">
+
+                                        <img src="img/tabs/3.jpg" width="100%" alt=""/> </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <div class="tabs-entry">
+
+                                <div class="article-container style-1">
+
+                                    <div class="row">
+
+                                        <div class="col-md-6 information-entry">
+
+                                            <h4>Combate contra Incendios</h4>
+
+											<p>Siendo un sector que requiere proteccion especifica en el combate contra incendios, proveemos de indumentaria e instrumentos que les permitán realizar su labor con los mayores estandares de protección. </p>
+
+                                        </div>
+
+                                        <div class="col-md-6 information-entry">
+
+                                        <img src="img/tabs/4.jpg" width="100%" alt=""/> </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <div class="tabs-entry">
+
+                                <div class="article-container style-1">
+
+                                    <div class="row">
+
+                                        <div class="col-md-6 information-entry">
+
+                                            <h4>Rescate</h4>
+
+											<p>Contamos con equipamiento especializado de la marca LEADER para busqueda y rescate de victimas en estructuras colapsadas.
+                                          <br>  <u><strong>LEADER HASTY:</strong></u> Cámara de búsqueda y detector sísmico inalámbrico, 2 en 1.
+                                          <br>  <u><strong>LEADER SCAN:</strong></u> Detector de movimientos UWB ultrasensible.
+                                          <br>  <u><strong>LEADER SENTRY:</strong></u> Detector de movimientos para el control de estabilidad.
+                                            
+            </p>
+
+                                        </div>
+
+                                        <div class="col-md-6 information-entry">
+
+                                        <img src="img/tabs/5.jpg" width="100%" alt=""/> </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <div class="tabs-entry">
+
+                                <div class="article-container style-1">
+
+                                    <div class="row">
+
+                                        <div class="col-md-6 information-entry">
+
+                                            <h4>Seguridad Vial</h4>
+
+											<p>Cintas de seguriodad, conos, chalecos reflectivos, entre una gama extensa de productos requeridos en este campo.. </p>
+
+                                        </div>
+
+                                        <div class="col-md-6 information-entry">
+
+                                        <img src="img/tabs/6.jpg" width="100%" alt=""/> </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="row">
+
+                        <div class="custom-col-12">
+
+                            <div class="information-blocks">
+
+                                <div class="tabs-container">
+
+                                    <div>
+
+                                        <div class="tabs-entry">
+
+                                            <div class="products-swiper">
+
+                                               <div class="swiper-container" data-autoplay="2000" data-loop="1" data-speed="500" data-center="0" data-slides-per-view="responsive" data-xs-slides="2" data-int-slides="2" data-sm-slides="2" data-md-slides="3" data-lg-slides="6" data-add-slides="6">
+
+                                                    <div class="swiper-wrapper">
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/1.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/2.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/3.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+
+                                                        </div>
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/4.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+       
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/5.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/6.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/7.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/8.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/9.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/10.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/11.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/12.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/13.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+ <!-- nueva marca-->
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/14.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+<!-- fin nueva marca FAL-->
+ 
+ <!-- nueva marca scott-->
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/19.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+<!-- fin nueva marca scott-->
+<!-- nueva marca spartan-->
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/20.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+<!-- fin nueva marca spartan-->
+
+ 
+ <!-- nueva marca MERET-->
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/16.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+<!-- fin nueva marca MERET-->
+ <!-- nueva marca BIOEX-->
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/17.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+<!-- fin nueva marca BIOEX-->
+
+ <!-- nueva marca LEADER-->
+
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/18.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+<!-- fin nueva marca LEADER-->
+                                                        <div class="swiper-slide"> 
+
+                                                            <div class="paddings-container">
+
+                                                                <div class="product-slide-entry">
+
+                                                                    <div class="product-image">
+
+                                                                        <img src="img/marcas/15.jpg" alt="" />
+
+                                                                         
+
+                                                                        <div class="bottom-line">
+
+                                                                            <a class="bottom-line-a"><i class="fa fa-shopping-cart"></i>  Nuestras Marcas</a>
+
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="pagination"></div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+
+
+                            <div class="clear"></div>
+
+                        </div>
+
+	</div>
+
+	<!-- Fin Contenidos -->
+
+	<!-- Footer -->		
+
+					<!-- FOOTER -->
+                <div class="footer-wrapper style-3">
+                    <footer class="type-1">
+                        <div class="footer-columns-entry">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <h3 class="column-title">¿Quiénes Somos?</h3>
+                                    <div class="footer-description text-justify">PROSEIN Cía. Ltda. es la empresa líder en Ecuador en la comercialización de productos y servicios de seguridad industrial, protección contra incendios e higiene ocupacional. Contamos con 25 años de experiencia en el mercado ecuatoriano y representamos a las más prestigiosas marcas a nivel mundial que ofrecen productos y equipos que cumplen con estándares... </div>
+                                    
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="col-md-2 col-sm-4">
+                                    <h3 class="column-title">Dirección Oficina Matriz (Quito)</h3>
+									<div class="footer-address"><i class="fa fa-home"></i> Alemania N29-80 y Av. Eloy Alfaro (planta baja)<br/>
+										<hr>
+											<i class="fa fa-phone"></i> Celular: 0997671203<br>
+											<i class="fa fa-phone"></i> Teléfono: 593-2-2568-677<br>
+											<i class="fa fa-fax"></i> Fax: 593-2-2568-707<br/>
+											<i class="fa fa-envelope"></i> Email: <a href="mailto:ventas@prosein.com.ec">ventas@prosein.com.ec</a>
+										</div>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="col-md-2 col-sm-4">
+                                    <h3 class="column-title">Dirección Sucursal (Cuenca)</h3>
+									<div class="footer-address"><i class="fa fa-home"></i> Nazacota Puento 2-41 y Avenida Los Andes <br/>
+										<hr>
+											<i class="fa fa-phone"></i> Teléfono: 096 278 1835 <br>
+											<i class="fa fa-envelope"></i> Email: <a href="mailto:ventascuenca@prosein.com.ec">m.mejia@prosein.com.ec</a>
+											<i class="fa fa-envelope"></i> ; <a    
+										href="mailto:ventascuenca@prosein.com.ec">monamejia8@hotmail.com</a>
+										</div>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="col-md-2 col-sm-4">
+                                    <h3 class="column-title">Dirección Sucursal (Guayaquil)</h3>
+									<div class="footer-address"><i class="fa fa-home"></i> Ciudadela Los Cipreces, Manzana Solar 1, Duran PB <br/>
+										<hr>
+											<i class="fa fa-phone"></i> Teléfono: (04)219-5999 <br>
+											<i class="fa fa-phone"></i> Teléfono:  098-982-5293<br>
+											<i class="fa fa-envelope"></i> Email: <a href="mailto:ventasgye@prosein.com.ec">ventasgye@prosein.com.ec</a>
+										</div>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="clearfix visible-sm-block"></div>
+                                <div class="col-md-2">
+                                    <h3 class="column-title">Horario de Atención</h3>
+                                    <div class="footer-description">
+										<b><i class="fa fa-clock-o"></i> Lunes a Viernes:</b><br> 09.00 a.m. - 18.00 p.m.<br/>
+                                        <hr>
+                                        <b><i class="fa fa-clock-o"></i> Sábados y Domingo</b> <br>Cerrado<br/>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </footer>
+					<footer class="type-2">
+							<div class="position-center">
+								<img class="footer-logo" src="img/logo-4.png" alt="">
+								<div class="copyright">Design by <a href="https://www.marvision.com.ec" target="_blank">Marvision</a>. All right reserved</div>
+							</div>
+					</footer>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="clear"></div>
+
+    </div>
+
+    <div class="search-box popup">
+        <form>
+            <div class="search-button">
+                <i class="fa fa-search"></i>
+                <input type="submit" />
+            </div>
+            <div class="search-field">
+                <input type="text" value="" placeholder="Buscar" />
+            </div>
+        </form>
+    </div>
+    <script src="js/jquery-2.1.3.min.js"></script>
+    <script src="js/idangerous.swiper.min.js"></script>
+    <script src="js/global.js"></script>
+
+    <!-- custom scrollbar -->
+    <script src="js/jquery.mousewheel.js"></script>
+    <script src="js/jquery.jscrollpane.min.js"></script>
+    <script src="js/map.js"></script>
+    <!----Whatssap----->
+    <a href="https://api.whatsapp.com/send?phone=593997671203" target="_blank">
+    	<img src="img/call.png" class="phoneCallCenter"/>
+    </a>
+</body>
+</html>
